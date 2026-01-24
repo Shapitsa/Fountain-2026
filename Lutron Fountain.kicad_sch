@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "d8bd194b-7320-40b5-b2bf-918a1766be7e")
-	(paper "B")
+	(paper "A4" portrait)
 	(title_block
 		(title "Lutron Competition Fountain")
 		(date "2026-01-24")
@@ -1081,122 +1081,274 @@
 		)
 	)
 	(junction
-		(at 66.04 118.11)
+		(at 93.98 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "020b81a0-b4f1-4251-84a3-8e08edfd439f")
 	)
 	(junction
-		(at 86.36 123.19)
+		(at 43.18 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0981258d-fd84-45ee-be32-995b7ff32ebc")
+	)
+	(junction
+		(at 114.3 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "171127a8-6051-499d-9007-f01e8e5b0202")
 	)
 	(junction
-		(at 105.41 118.11)
+		(at 43.18 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17e04885-ef11-4a1b-a9b4-179d66048f4f")
+	)
+	(junction
+		(at 133.35 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24b4377d-143c-4895-a1f4-dd034900f1a5")
 	)
 	(junction
-		(at 97.79 67.31)
+		(at 62.23 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "271b393b-9f67-4d18-b8f8-92c4c1b1172a")
+	)
+	(junction
+		(at 125.73 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "29ed0f2e-ce3b-423c-99aa-72f31fe33eb9")
 	)
 	(junction
-		(at 116.84 67.31)
+		(at 93.98 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d0faf5f-8047-4bc7-84f5-8fb840effaf3")
+	)
+	(junction
+		(at 105.41 237.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d48a105-0711-43a4-b5a2-3b25668ea1ce")
+	)
+	(junction
+		(at 125.73 237.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e1b90a8-538f-4309-9713-f2509432d1a6")
+	)
+	(junction
+		(at 69.85 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "38666c4b-a03e-42c0-be26-700dbc63c615")
+	)
+	(junction
+		(at 73.66 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e1debac-add2-42de-af89-2e16b3c426a5")
+	)
+	(junction
+		(at 144.78 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "41a62441-5514-4f16-a198-921a91acfde0")
 	)
 	(junction
-		(at 105.41 123.19)
+		(at 66.04 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5420238b-d07a-4622-a7b7-ded527df3694")
+	)
+	(junction
+		(at 133.35 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5d2df611-afa5-4ede-a3a0-2f922118ae7c")
 	)
 	(junction
-		(at 77.47 173.99)
+		(at 105.41 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "611bb3e5-da57-4836-a68d-f6db27b2df62")
 	)
 	(junction
-		(at 77.47 67.31)
+		(at 85.09 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6abf4c6e-3ace-438d-8545-7cde165811e7")
+	)
+	(junction
+		(at 114.3 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6d09ee47-d91a-4ee0-8975-c1f7576ee34d")
+	)
+	(junction
+		(at 133.35 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6e344548-6bc7-4c3f-8305-3c87b62f1899")
+	)
+	(junction
+		(at 105.41 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73eda71f-a976-49fd-a5d3-640c6c7fbde4")
 	)
 	(junction
-		(at 66.04 123.19)
+		(at 93.98 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ff8570d-ea75-44ac-9bef-32486cd3f74b")
 	)
 	(junction
-		(at 86.36 118.11)
+		(at 144.78 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80eb5917-c065-4ad9-9aae-6f07a8c52e19")
+	)
+	(junction
+		(at 93.98 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84e1306c-48b7-44f5-801f-fba4f8338e04")
+	)
+	(junction
+		(at 114.3 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "99186e88-695b-4468-94f1-da551f2e74e2")
 	)
 	(junction
-		(at 34.29 67.31)
+		(at 73.66 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9a390282-5ac6-4b1d-a9b6-181169667fc5")
+	)
+	(junction
+		(at 62.23 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a107fb54-7625-42d3-8f04-84afdfe555c2")
 	)
 	(junction
-		(at 97.79 173.99)
+		(at 144.78 237.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7745400-79e9-4b70-b0b1-7aa268d78170")
+	)
+	(junction
+		(at 125.73 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "af2ae1e7-6ec5-4ec6-8a4c-0846a3c10c77")
 	)
 	(junction
-		(at 45.72 118.11)
+		(at 73.66 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4e11fe5-bc64-40ac-948d-966d65086fcf")
 	)
 	(junction
-		(at 57.15 173.99)
+		(at 85.09 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bac092be-1445-4fad-b19a-9715786c0d07")
 	)
 	(junction
-		(at 38.1 118.11)
+		(at 105.41 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bffe77ea-c054-4296-9a17-0bc5935d0826")
+	)
+	(junction
+		(at 125.73 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c97189f2-5723-45e1-95d2-b411d01d5bc4")
+	)
+	(junction
+		(at 85.09 237.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb01416f-9b53-4f28-b33e-68c422cdb57d")
+	)
+	(junction
+		(at 43.18 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd5ad2ce-b755-4700-b526-1541f366fc96")
+	)
+	(junction
+		(at 66.04 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2a94f87-17cd-4d6c-9e8b-c2724adadc5b")
 	)
 	(junction
-		(at 57.15 67.31)
+		(at 85.09 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "da1e168d-f1a3-4ace-ac36-401801083fd2")
 	)
 	(junction
-		(at 45.72 123.19)
+		(at 133.35 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0100464-072a-453a-a477-889104eb2871")
+	)
+	(junction
+		(at 114.3 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e7314d10-4527-4635-8862-f583de5b955a")
+	)
+	(junction
+		(at 73.66 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8dc3671-cf96-44bf-a4b2-15335adb335b")
 	)
 	(junction
-		(at 116.84 173.99)
+		(at 144.78 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f763e40c-6a38-4305-a355-dc97abd9dbbf")
 	)
 	(junction
-		(at 41.91 118.11)
+		(at 69.85 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc97bbc5-f023-4caa-8c7c-ae59b265b4a6")
 	)
 	(wire
 		(pts
-			(xy 105.41 118.11) (xy 107.95 118.11)
+			(xy 125.73 207.01) (xy 125.73 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0009c7dc-1fad-403c-8783-be28abff1ff8")
+	)
+	(wire
+		(pts
+			(xy 165.1 154.94) (xy 165.1 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0123137f-2f38-4e20-b4b6-3b4db2175ee5")
+	)
+	(wire
+		(pts
+			(xy 133.35 76.2) (xy 135.89 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1206,7 +1358,27 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 118.11) (xy 105.41 118.11)
+			(xy 125.73 154.94) (xy 125.73 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03debe90-68e1-4bab-97db-67744a58c82b")
+	)
+	(wire
+		(pts
+			(xy 62.23 138.43) (xy 85.09 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04136100-2334-4f59-ac29-18cd19c23bbb")
+	)
+	(wire
+		(pts
+			(xy 124.46 76.2) (xy 133.35 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1216,7 +1388,37 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 133.35) (xy 86.36 123.19)
+			(xy 125.73 168.91) (xy 125.73 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "054ce09d-6881-47fd-8cc0-dbc47377347e")
+	)
+	(wire
+		(pts
+			(xy 43.18 237.49) (xy 85.09 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0682d7fd-7d8b-4e56-92b6-864324b74799")
+	)
+	(wire
+		(pts
+			(xy 77.47 212.09) (xy 73.66 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07ec146b-f065-4fee-9bb6-c102af0ab3fb")
+	)
+	(wire
+		(pts
+			(xy 114.3 91.44) (xy 114.3 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1226,7 +1428,17 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 96.52) (xy 105.41 96.52)
+			(xy 153.67 163.83) (xy 153.67 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "081ddd39-5c56-4fa4-a288-6f719e4b3078")
+	)
+	(wire
+		(pts
+			(xy 137.16 54.61) (xy 133.35 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1236,7 +1448,17 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 118.11) (xy 68.58 118.11)
+			(xy 85.09 154.94) (xy 85.09 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "088bbfa6-a05f-43ba-9c87-83fb115f4dff")
+	)
+	(wire
+		(pts
+			(xy 93.98 76.2) (xy 96.52 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1246,7 +1468,17 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 101.6) (xy 116.84 104.14)
+			(xy 93.98 163.83) (xy 93.98 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09e3bd8f-321f-467b-9c51-cbd27d5394dc")
+	)
+	(wire
+		(pts
+			(xy 144.78 59.69) (xy 144.78 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1256,7 +1488,17 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 118.11) (xy 86.36 118.11)
+			(xy 153.67 200.66) (xy 153.67 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b6dee41-9c78-4e04-b905-91f7f38ebb0d")
+	)
+	(wire
+		(pts
+			(xy 104.14 76.2) (xy 114.3 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1266,7 +1508,17 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 139.7) (xy 97.79 137.16)
+			(xy 73.66 190.5) (xy 76.2 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c4fd901-520b-4a0b-b4f0-b45806bcb3a5")
+	)
+	(wire
+		(pts
+			(xy 125.73 97.79) (xy 125.73 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1276,7 +1528,17 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 107.95) (xy 45.72 118.11)
+			(xy 83.82 185.42) (xy 93.98 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "133dfde4-5257-45d9-969c-e5fbbe74dbcf")
+	)
+	(wire
+		(pts
+			(xy 73.66 66.04) (xy 73.66 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1286,7 +1548,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 123.19) (xy 41.91 123.19)
+			(xy 73.66 81.28) (xy 69.85 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1296,7 +1558,57 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 123.19) (xy 88.9 123.19)
+			(xy 62.23 189.23) (xy 62.23 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15aa2f6e-dcbd-412c-9e55-f8d3986b1c23")
+	)
+	(wire
+		(pts
+			(xy 105.41 229.87) (xy 105.41 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17dc16f0-492f-4376-91ae-984e3f1defbb")
+	)
+	(wire
+		(pts
+			(xy 125.73 146.05) (xy 125.73 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a390b04-f4fa-4d17-910a-af61d1003f54")
+	)
+	(wire
+		(pts
+			(xy 73.66 190.5) (xy 69.85 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a6e0843-937e-4f5c-b849-f5b10300efaa")
+	)
+	(wire
+		(pts
+			(xy 133.35 190.5) (xy 135.89 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ac56c4c-b4da-4bed-a30a-d2f131d65f1f")
+	)
+	(wire
+		(pts
+			(xy 114.3 81.28) (xy 116.84 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1306,7 +1618,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 123.19) (xy 68.58 123.19)
+			(xy 93.98 81.28) (xy 96.52 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1316,7 +1628,77 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 166.37) (xy 97.79 161.29)
+			(xy 125.73 237.49) (xy 144.78 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e0944d3-621f-4772-b1c8-76c3885e8793")
+	)
+	(wire
+		(pts
+			(xy 38.1 133.35) (xy 43.18 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e12eaa6-c1a4-4a39-bd28-5f063e366515")
+	)
+	(wire
+		(pts
+			(xy 137.16 212.09) (xy 133.35 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e5ebf10-f25c-4daf-947a-6b65bd671714")
+	)
+	(wire
+		(pts
+			(xy 165.1 207.01) (xy 165.1 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22014e84-d75f-4f92-82b4-5d407b85c3ba")
+	)
+	(wire
+		(pts
+			(xy 144.78 154.94) (xy 144.78 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22107dfb-6690-4887-8130-f05adc5167b2")
+	)
+	(wire
+		(pts
+			(xy 165.1 220.98) (xy 165.1 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25e40148-65d0-4293-8558-61ddf6460051")
+	)
+	(wire
+		(pts
+			(xy 144.78 207.01) (xy 144.78 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26bf9f32-8ef4-4245-b877-edb2c1a9bbb0")
+	)
+	(wire
+		(pts
+			(xy 125.73 120.65) (xy 125.73 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1326,7 +1708,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 133.35) (xy 45.72 123.19)
+			(xy 73.66 91.44) (xy 73.66 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1336,7 +1718,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 101.6) (xy 77.47 104.14)
+			(xy 105.41 59.69) (xy 105.41 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1346,7 +1728,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 144.78) (xy 105.41 144.78)
+			(xy 137.16 102.87) (xy 133.35 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1356,7 +1738,27 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 123.19) (xy 105.41 123.19)
+			(xy 93.98 212.09) (xy 93.98 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aaeb762-8f5e-4482-aea1-2db79b75e0e5")
+	)
+	(wire
+		(pts
+			(xy 133.35 185.42) (xy 135.89 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b0303cf-ac90-4a1f-84cb-2f9715179542")
+	)
+	(wire
+		(pts
+			(xy 124.46 81.28) (xy 133.35 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1366,7 +1768,17 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 101.6) (xy 57.15 104.14)
+			(xy 137.16 163.83) (xy 133.35 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3055432a-5403-468e-bd72-90d9046553a6")
+	)
+	(wire
+		(pts
+			(xy 85.09 59.69) (xy 85.09 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1376,7 +1788,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 107.95) (xy 105.41 118.11)
+			(xy 133.35 66.04) (xy 133.35 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1386,7 +1798,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 121.92) (xy 34.29 124.46)
+			(xy 62.23 80.01) (xy 62.23 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1396,7 +1808,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 67.31) (xy 77.47 67.31)
+			(xy 85.09 29.21) (xy 105.41 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1406,7 +1818,27 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 118.11) (xy 115.57 118.11)
+			(xy 105.41 146.05) (xy 105.41 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "334f7e2e-dfa6-4a50-a92b-c4a09693a683")
+	)
+	(wire
+		(pts
+			(xy 144.78 168.91) (xy 144.78 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34127501-b1fa-44fb-9591-ad12efc24588")
+	)
+	(wire
+		(pts
+			(xy 153.67 76.2) (xy 143.51 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1416,7 +1848,27 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 118.11) (xy 48.26 118.11)
+			(xy 85.09 138.43) (xy 105.41 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36f78956-da08-41ec-93ca-f11dd7056c47")
+	)
+	(wire
+		(pts
+			(xy 118.11 163.83) (xy 114.3 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "380b22a4-7d60-4275-829c-d24149b17201")
+	)
+	(wire
+		(pts
+			(xy 73.66 76.2) (xy 76.2 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1426,7 +1878,47 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 139.7) (xy 77.47 137.16)
+			(xy 114.3 185.42) (xy 116.84 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "393bbeed-b39e-4795-a6c8-8314712651c4")
+	)
+	(wire
+		(pts
+			(xy 124.46 185.42) (xy 133.35 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d4d9f64-eff2-4cff-8c03-752cb50608a4")
+	)
+	(wire
+		(pts
+			(xy 153.67 185.42) (xy 143.51 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e577af3-3493-4613-95c8-4bfe28216edf")
+	)
+	(wire
+		(pts
+			(xy 144.78 229.87) (xy 144.78 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e697b58-7ab3-4903-ba50-3bc5e61d0556")
+	)
+	(wire
+		(pts
+			(xy 105.41 97.79) (xy 105.41 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1436,7 +1928,17 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 144.78) (xy 86.36 140.97)
+			(xy 66.04 185.42) (xy 69.85 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e9c29a8-d472-4d84-9132-b816a26c7c0d")
+	)
+	(wire
+		(pts
+			(xy 114.3 102.87) (xy 114.3 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1446,7 +1948,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 74.93) (xy 137.16 80.01)
+			(xy 165.1 36.83) (xy 165.1 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1456,17 +1958,57 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 67.31) (xy 15.24 173.99)
+			(xy 69.85 190.5) (xy 69.85 185.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4d4dca00-9149-460a-9f93-73f6d7d6fee0")
+		(uuid "4dddc2c4-9eef-49c9-ba8c-24c759da3048")
 	)
 	(wire
 		(pts
-			(xy 38.1 118.11) (xy 41.91 118.11)
+			(xy 43.18 29.21) (xy 43.18 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e069ecb-706a-49e7-a304-4b53f2ba966d")
+	)
+	(wire
+		(pts
+			(xy 43.18 29.21) (xy 62.23 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e6b9bd1-dd6a-49e6-9a0f-761483ed6d10")
+	)
+	(wire
+		(pts
+			(xy 83.82 190.5) (xy 93.98 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4eb77364-1697-49e5-acd8-49fc7e1130ab")
+	)
+	(wire
+		(pts
+			(xy 153.67 190.5) (xy 143.51 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4efaeb51-0a6d-4ffc-9066-0c001c38f702")
+	)
+	(wire
+		(pts
+			(xy 66.04 76.2) (xy 69.85 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1476,7 +2018,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 74.93) (xy 57.15 80.01)
+			(xy 85.09 36.83) (xy 85.09 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1486,7 +2028,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 123.19) (xy 48.26 123.19)
+			(xy 73.66 81.28) (xy 76.2 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1496,17 +2038,17 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 67.31) (xy 15.24 67.31)
+			(xy 114.3 163.83) (xy 114.3 167.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "571ffc70-e0b3-47cd-8d32-0a0c460543dd")
+		(uuid "55820f12-28e5-4e6c-85fd-f1044119fe42")
 	)
 	(wire
 		(pts
-			(xy 97.79 74.93) (xy 97.79 80.01)
+			(xy 125.73 36.83) (xy 125.73 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1516,7 +2058,37 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 133.35) (xy 66.04 123.19)
+			(xy 118.11 212.09) (xy 114.3 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "597c9167-692f-4e1d-95b5-fec0ebef6cc2")
+	)
+	(wire
+		(pts
+			(xy 64.77 185.42) (xy 66.04 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a8aff92-45a4-480f-8184-c73b591f237e")
+	)
+	(wire
+		(pts
+			(xy 125.73 229.87) (xy 125.73 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b23264e-0cc4-4cb1-a75e-f94a6c4eef97")
+	)
+	(wire
+		(pts
+			(xy 93.98 91.44) (xy 93.98 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1526,7 +2098,17 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 173.99) (xy 116.84 173.99)
+			(xy 114.3 200.66) (xy 114.3 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c527413-1d15-4919-be3c-a520a6eb9d7c")
+	)
+	(wire
+		(pts
+			(xy 125.73 128.27) (xy 144.78 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1536,7 +2118,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 74.93) (xy 116.84 80.01)
+			(xy 144.78 36.83) (xy 144.78 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1546,7 +2128,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 96.52) (xy 86.36 96.52)
+			(xy 118.11 54.61) (xy 114.3 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1556,7 +2138,17 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 123.19) (xy 41.91 118.11)
+			(xy 93.98 185.42) (xy 96.52 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6175299c-c210-400e-a611-94ce65a17a78")
+	)
+	(wire
+		(pts
+			(xy 69.85 81.28) (xy 69.85 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1566,7 +2158,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 144.78) (xy 125.73 140.97)
+			(xy 153.67 102.87) (xy 153.67 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1576,7 +2168,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 173.99) (xy 97.79 173.99)
+			(xy 105.41 128.27) (xy 125.73 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1586,7 +2178,17 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 118.11) (xy 38.1 118.11)
+			(xy 133.35 200.66) (xy 133.35 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "636bf429-cfae-40a9-b579-f0d9f2e85745")
+	)
+	(wire
+		(pts
+			(xy 64.77 76.2) (xy 66.04 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1596,7 +2198,7 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 173.99) (xy 57.15 173.99)
+			(xy 43.18 128.27) (xy 85.09 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1606,7 +2208,17 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 67.31) (xy 34.29 114.3)
+			(xy 62.23 138.43) (xy 62.23 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6569dd2b-eec3-47f3-9675-0fc9cdf89d44")
+	)
+	(wire
+		(pts
+			(xy 62.23 29.21) (xy 62.23 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1616,7 +2228,17 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 139.7) (xy 116.84 137.16)
+			(xy 114.3 190.5) (xy 116.84 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6933c8f3-85a5-4e29-ba5a-5f0c8d04101e")
+	)
+	(wire
+		(pts
+			(xy 144.78 97.79) (xy 144.78 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1626,7 +2248,27 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 67.31) (xy 97.79 67.31)
+			(xy 105.41 237.49) (xy 125.73 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a323266-3a6f-4844-80e4-e1168aefeb0f")
+	)
+	(wire
+		(pts
+			(xy 104.14 190.5) (xy 114.3 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a7ef7d9-312c-44a9-8551-bb1d5db9b127")
+	)
+	(wire
+		(pts
+			(xy 105.41 29.21) (xy 125.73 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1636,7 +2278,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 166.37) (xy 116.84 161.29)
+			(xy 144.78 120.65) (xy 144.78 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1646,7 +2288,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 101.6) (xy 97.79 104.14)
+			(xy 125.73 59.69) (xy 125.73 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1656,7 +2298,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 118.11) (xy 88.9 118.11)
+			(xy 114.3 76.2) (xy 116.84 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1666,7 +2308,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 67.31) (xy 137.16 67.31)
+			(xy 144.78 29.21) (xy 165.1 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1676,7 +2318,17 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 107.95) (xy 86.36 118.11)
+			(xy 165.1 146.05) (xy 165.1 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f4efb19-8c5a-4c92-8780-001fbc8fef8d")
+	)
+	(wire
+		(pts
+			(xy 114.3 66.04) (xy 114.3 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1686,7 +2338,27 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 87.63) (xy 116.84 91.44)
+			(xy 125.73 220.98) (xy 125.73 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7724987e-e091-496a-a403-28384ada4efc")
+	)
+	(wire
+		(pts
+			(xy 85.09 220.98) (xy 85.09 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78b8e125-46ae-4446-81e8-bce932092153")
+	)
+	(wire
+		(pts
+			(xy 144.78 45.72) (xy 144.78 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1696,7 +2368,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 87.63) (xy 137.16 91.44)
+			(xy 165.1 45.72) (xy 165.1 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1706,7 +2378,37 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 144.78) (xy 45.72 144.78)
+			(xy 133.35 175.26) (xy 133.35 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d1d091e-aab5-4d60-a071-577955f8556e")
+	)
+	(wire
+		(pts
+			(xy 93.98 190.5) (xy 96.52 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d1f53ae-c124-4858-9bf9-f035c70119e6")
+	)
+	(wire
+		(pts
+			(xy 43.18 138.43) (xy 43.18 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80bc144b-2ecc-4ad1-882d-3d5b5cfc8de7")
+	)
+	(wire
+		(pts
+			(xy 77.47 102.87) (xy 73.66 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1716,7 +2418,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 96.52) (xy 125.73 100.33)
+			(xy 153.67 54.61) (xy 153.67 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1726,7 +2428,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 107.95) (xy 66.04 118.11)
+			(xy 93.98 66.04) (xy 93.98 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1736,7 +2438,27 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 153.67) (xy 77.47 149.86)
+			(xy 85.09 168.91) (xy 85.09 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8406f6b2-ae1e-40e4-848e-3830935bfafe")
+	)
+	(wire
+		(pts
+			(xy 124.46 190.5) (xy 133.35 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84302bdc-17b5-4567-a59f-912955ca4007")
+	)
+	(wire
+		(pts
+			(xy 105.41 111.76) (xy 105.41 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1746,7 +2468,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 67.31) (xy 116.84 67.31)
+			(xy 125.73 29.21) (xy 144.78 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1756,7 +2478,17 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 96.52) (xy 66.04 96.52)
+			(xy 144.78 237.49) (xy 165.1 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8696a9bb-7d1b-4f7f-be41-3399b1efa2a8")
+	)
+	(wire
+		(pts
+			(xy 97.79 54.61) (xy 93.98 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1766,7 +2498,17 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 153.67) (xy 116.84 149.86)
+			(xy 165.1 168.91) (xy 165.1 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ab54045-4418-448b-a290-f239f875d5d0")
+	)
+	(wire
+		(pts
+			(xy 144.78 111.76) (xy 144.78 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1776,7 +2518,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 96.52) (xy 86.36 100.33)
+			(xy 114.3 54.61) (xy 114.3 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1786,7 +2528,17 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 166.37) (xy 137.16 161.29)
+			(xy 93.98 200.66) (xy 93.98 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e930cda-97c1-409e-9b29-6ae2d6b759a8")
+	)
+	(wire
+		(pts
+			(xy 165.1 120.65) (xy 165.1 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1796,7 +2548,17 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 96.52) (xy 45.72 100.33)
+			(xy 97.79 212.09) (xy 93.98 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "920dd523-7866-43ef-9a32-4f1c3e2e57a0")
+	)
+	(wire
+		(pts
+			(xy 73.66 54.61) (xy 73.66 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1806,7 +2568,17 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 166.37) (xy 77.47 161.29)
+			(xy 114.3 212.09) (xy 114.3 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9479b0cc-6e09-4381-ab3d-ee790d275765")
+	)
+	(wire
+		(pts
+			(xy 105.41 120.65) (xy 105.41 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1816,7 +2588,27 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 87.63) (xy 77.47 91.44)
+			(xy 73.66 185.42) (xy 76.2 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99388df3-aa64-4328-955c-24767cc789bd")
+	)
+	(wire
+		(pts
+			(xy 73.66 212.09) (xy 73.66 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9981be01-54de-498f-9b69-c6f0f231abdf")
+	)
+	(wire
+		(pts
+			(xy 105.41 45.72) (xy 105.41 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1826,7 +2618,27 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 101.6) (xy 137.16 104.14)
+			(xy 43.18 133.35) (xy 43.18 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a339dbc-fc3d-4014-96c1-1cae88006288")
+	)
+	(wire
+		(pts
+			(xy 105.41 220.98) (xy 105.41 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b194c82-25dc-4fef-8bf2-df55f21d3433")
+	)
+	(wire
+		(pts
+			(xy 165.1 59.69) (xy 165.1 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1836,7 +2648,17 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 96.52) (xy 105.41 100.33)
+			(xy 43.18 133.35) (xy 43.18 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c9d2251-9650-4456-a38f-e3ef3d7eb918")
+	)
+	(wire
+		(pts
+			(xy 133.35 54.61) (xy 133.35 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1846,7 +2668,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 173.99) (xy 137.16 173.99)
+			(xy 144.78 128.27) (xy 165.1 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1856,7 +2678,17 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 87.63) (xy 97.79 91.44)
+			(xy 105.41 207.01) (xy 105.41 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a05cb545-d9e8-45a2-87ec-ba1398882b74")
+	)
+	(wire
+		(pts
+			(xy 125.73 45.72) (xy 125.73 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1866,7 +2698,17 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 123.19) (xy 107.95 123.19)
+			(xy 105.41 168.91) (xy 105.41 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a358cb45-6ea6-4358-a050-1fd9c96c12d9")
+	)
+	(wire
+		(pts
+			(xy 133.35 81.28) (xy 135.89 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1876,7 +2718,27 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 153.67) (xy 57.15 149.86)
+			(xy 114.3 175.26) (xy 114.3 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a915ebc6-4774-47c3-aef0-26a3b51aa7fa")
+	)
+	(wire
+		(pts
+			(xy 165.1 229.87) (xy 165.1 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab30d89e-2f94-416d-9968-ea0f5937193b")
+	)
+	(wire
+		(pts
+			(xy 85.09 111.76) (xy 85.09 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1886,7 +2748,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 144.78) (xy 105.41 140.97)
+			(xy 133.35 102.87) (xy 133.35 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1896,7 +2758,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 96.52) (xy 125.73 96.52)
+			(xy 157.48 54.61) (xy 153.67 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1906,7 +2768,37 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 144.78) (xy 66.04 144.78)
+			(xy 104.14 185.42) (xy 114.3 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae9d6b5d-aa6d-426c-ae7c-11170654038f")
+	)
+	(wire
+		(pts
+			(xy 133.35 212.09) (xy 133.35 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af8816b5-b5e1-4191-957c-6d5cb7ab4de6")
+	)
+	(wire
+		(pts
+			(xy 93.98 175.26) (xy 93.98 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af8eb456-6a28-4b9a-8b21-75e47f397235")
+	)
+	(wire
+		(pts
+			(xy 97.79 102.87) (xy 93.98 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1916,7 +2808,37 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 67.31) (xy 57.15 67.31)
+			(xy 43.18 138.43) (xy 62.23 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3b66ad4-cad1-4bf7-8e4d-8b45c1ef2bc8")
+	)
+	(wire
+		(pts
+			(xy 85.09 146.05) (xy 85.09 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3b7b1f4-b240-4157-974d-f9deee7e4904")
+	)
+	(wire
+		(pts
+			(xy 73.66 200.66) (xy 73.66 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4d7e0a6-da72-4066-8a33-3272851e6aa4")
+	)
+	(wire
+		(pts
+			(xy 62.23 29.21) (xy 85.09 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1926,7 +2848,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 123.19) (xy 86.36 123.19)
+			(xy 104.14 81.28) (xy 114.3 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1936,7 +2858,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 123.19) (xy 115.57 123.19)
+			(xy 153.67 81.28) (xy 143.51 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1946,7 +2868,17 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 96.52) (xy 66.04 100.33)
+			(xy 73.66 163.83) (xy 73.66 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd7b3426-9e11-472b-8e19-df8085a1ebdb")
+	)
+	(wire
+		(pts
+			(xy 93.98 54.61) (xy 93.98 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1956,7 +2888,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 144.78) (xy 45.72 140.97)
+			(xy 73.66 102.87) (xy 73.66 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1966,7 +2898,37 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 139.7) (xy 57.15 137.16)
+			(xy 153.67 212.09) (xy 153.67 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c183091f-14ba-41be-8f08-5afcfb14fba3")
+	)
+	(wire
+		(pts
+			(xy 85.09 229.87) (xy 85.09 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2d7030d-40aa-48ef-89b0-c9a6ef985fa0")
+	)
+	(wire
+		(pts
+			(xy 133.35 163.83) (xy 133.35 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3686d6d-9687-47f5-8d86-d0d09c165d91")
+	)
+	(wire
+		(pts
+			(xy 85.09 97.79) (xy 85.09 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1976,7 +2938,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 118.11) (xy 45.72 118.11)
+			(xy 69.85 76.2) (xy 73.66 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1986,7 +2948,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 144.78) (xy 125.73 144.78)
+			(xy 157.48 102.87) (xy 153.67 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1996,7 +2958,57 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 107.95) (xy 125.73 118.11)
+			(xy 73.66 175.26) (xy 73.66 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8799a52-e389-42d4-9d47-0cf4dc806066")
+	)
+	(wire
+		(pts
+			(xy 77.47 163.83) (xy 73.66 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbd0669d-be81-421f-b6c9-5cb04816f1ce")
+	)
+	(wire
+		(pts
+			(xy 105.41 154.94) (xy 105.41 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf837a39-4c42-4e0c-ba2d-c5657d5a4052")
+	)
+	(wire
+		(pts
+			(xy 105.41 138.43) (xy 125.73 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d27941bb-6b7c-42a8-802a-bdd998066c3f")
+	)
+	(wire
+		(pts
+			(xy 85.09 207.01) (xy 85.09 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2ef1b8c-f1b9-45b4-b8da-c8bf60dad48c")
+	)
+	(wire
+		(pts
+			(xy 153.67 66.04) (xy 153.67 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2006,7 +3018,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 96.52) (xy 45.72 96.52)
+			(xy 77.47 54.61) (xy 73.66 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2016,7 +3028,47 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 133.35) (xy 125.73 123.19)
+			(xy 97.79 163.83) (xy 93.98 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc9c1f5d-6cab-476f-8b74-0e2e2d8754cd")
+	)
+	(wire
+		(pts
+			(xy 125.73 138.43) (xy 144.78 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd4ab77b-cbef-4768-b4aa-e48bd76df8b0")
+	)
+	(wire
+		(pts
+			(xy 157.48 212.09) (xy 153.67 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e009004a-4287-4bcd-a83a-2ee8f624e822")
+	)
+	(wire
+		(pts
+			(xy 85.09 237.49) (xy 105.41 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0d350e8-9d55-4929-9b73-88f368d8e595")
+	)
+	(wire
+		(pts
+			(xy 153.67 91.44) (xy 153.67 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2026,7 +3078,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 166.37) (xy 57.15 161.29)
+			(xy 85.09 120.65) (xy 85.09 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2036,7 +3088,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 153.67) (xy 137.16 149.86)
+			(xy 165.1 111.76) (xy 165.1 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2046,7 +3098,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 139.7) (xy 137.16 137.16)
+			(xy 165.1 97.79) (xy 165.1 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2056,7 +3108,17 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 118.11) (xy 66.04 118.11)
+			(xy 144.78 146.05) (xy 144.78 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5503852-6640-47f6-bd24-40d26b9824d7")
+	)
+	(wire
+		(pts
+			(xy 83.82 76.2) (xy 93.98 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2066,7 +3128,17 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 133.35) (xy 105.41 123.19)
+			(xy 144.78 220.98) (xy 144.78 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e60685c7-9674-4cf5-82fa-d3f3079b4f21")
+	)
+	(wire
+		(pts
+			(xy 133.35 91.44) (xy 133.35 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2076,7 +3148,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 153.67) (xy 97.79 149.86)
+			(xy 125.73 111.76) (xy 125.73 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2086,7 +3158,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 144.78) (xy 86.36 144.78)
+			(xy 118.11 102.87) (xy 114.3 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2096,7 +3168,17 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 74.93) (xy 77.47 80.01)
+			(xy 153.67 175.26) (xy 153.67 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef78fe6c-8295-42b1-8222-caebf853d053")
+	)
+	(wire
+		(pts
+			(xy 105.41 36.83) (xy 105.41 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2106,7 +3188,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 144.78) (xy 66.04 140.97)
+			(xy 93.98 102.87) (xy 93.98 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2116,7 +3198,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 87.63) (xy 57.15 91.44)
+			(xy 85.09 45.72) (xy 85.09 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2126,7 +3208,27 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 173.99) (xy 77.47 173.99)
+			(xy 157.48 163.83) (xy 153.67 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9bcea21-f002-47fb-a9fa-e8edfdbbe29b")
+	)
+	(wire
+		(pts
+			(xy 144.78 138.43) (xy 165.1 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa1b8184-9172-4971-8806-0a0e84358fc1")
+	)
+	(wire
+		(pts
+			(xy 85.09 128.27) (xy 105.41 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2136,7 +3238,17 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 123.19) (xy 66.04 123.19)
+			(xy 69.85 185.42) (xy 73.66 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fab2406c-d6e1-438e-b6a7-3b0f36623da9")
+	)
+	(wire
+		(pts
+			(xy 83.82 81.28) (xy 93.98 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2145,8 +3257,78 @@
 		(uuid "fd1a828f-ddf0-43d9-8714-8cdd341bc546")
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 133.35 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01ec64cd-06ae-4915-ab0c-a16fc38dedd6")
+		(property "Reference" "R33"
+			(at 135.89 170.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 135.89 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 131.572 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 133.35 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 133.35 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "95fcf101-580e-479c-b566-1c9566274a90")
+		)
+		(pin "1"
+			(uuid "81435df0-ad73-4d61-862f-54167ff7fdb3")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 134.62 96.52 0)
+		(at 162.56 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2155,7 +3337,7 @@
 		(fields_autoplaced yes)
 		(uuid "0210251b-1033-4beb-8542-efab9f3d809d")
 		(property "Reference" "Q5"
-			(at 139.7 95.2499 0)
+			(at 167.64 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2164,7 +3346,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 139.7 97.7899 0)
+			(at 167.64 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2173,7 +3355,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 139.7 98.425 0)
+			(at 167.64 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2184,7 +3366,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 134.62 96.52 0)
+			(at 162.56 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2194,7 +3376,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 134.62 96.52 0)
+			(at 162.56 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2221,8 +3403,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 82.55 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02de284d-5487-462d-a87b-18cced017347")
+		(property "Reference" "Q11"
+			(at 87.63 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 87.63 165.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 87.63 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 82.55 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 82.55 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "7d258a48-ece7-4ee0-bf11-84de3ddfc5f7")
+		)
+		(pin "2"
+			(uuid "7380aaad-f63e-47ad-ae18-4dae3ecfbf8c")
+		)
+		(pin "1"
+			(uuid "9cea6ece-0fc0-495f-a752-f48ce84b8529")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
-		(at 97.79 71.12 0)
+		(at 125.73 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2231,7 +3489,7 @@
 		(fields_autoplaced yes)
 		(uuid "0332957f-5197-4b3c-9a8a-6f6e37b5e34d")
 		(property "Reference" "R6"
-			(at 100.33 69.8499 0)
+			(at 128.27 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2240,7 +3498,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 100.33 72.3899 0)
+			(at 128.27 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2248,8 +3506,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 96.012 71.12 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 123.952 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2258,7 +3516,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 71.12 0)
+			(at 125.73 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2267,7 +3525,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 97.79 71.12 0)
+			(at 125.73 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2292,16 +3550,17 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 54.61 96.52 0)
+		(at 123.19 212.09 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0e21f4c0-0f91-4f6d-ac9a-9d9c9502cbd0")
-		(property "Reference" "Q1"
-			(at 59.69 95.2499 0)
+		(uuid "05778d35-9b9b-4632-bf80-b82e24ffa8ac")
+		(property "Reference" "Q16"
+			(at 128.27 213.3601 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2310,7 +3569,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 59.69 97.7899 0)
+			(at 128.27 210.8201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2319,7 +3578,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 59.69 98.425 0)
+			(at 128.27 210.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2330,7 +3589,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 54.61 96.52 0)
+			(at 123.19 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2340,7 +3599,248 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 54.61 96.52 0)
+			(at 123.19 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e1578ba1-b201-42db-a914-2f0be39f5028")
+		)
+		(pin "2"
+			(uuid "06beabc3-ecd1-47d4-a3d3-d5e473be2993")
+		)
+		(pin "1"
+			(uuid "04c3849e-59cd-4800-8984-4727c4f85f71")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 120.65 185.42 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d55d26e-000d-4657-8dfe-88a63f119cc6")
+		(property "Reference" "D27"
+			(at 120.65 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 120.65 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 120.65 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 120.65 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 120.65 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 120.65 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 120.65 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6022a41c-1cf4-440c-8b58-d655658dd3a4")
+		)
+		(pin "1"
+			(uuid "31619742-6674-4d99-81da-207a84c19f46")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 144.78 151.13 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d92b56d-dc37-4fad-bebc-41a6bffcd31d")
+		(property "Reference" "D33"
+			(at 148.59 151.4474 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 148.59 153.9874 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 144.78 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 144.78 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 144.78 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ddc9f42b-4881-492c-ae17-fef7b4066689")
+		)
+		(pin "1"
+			(uuid "d51a150d-1681-4dca-bd92-3d741f70afa4")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 82.55 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e21f4c0-0f91-4f6d-ac9a-9d9c9502cbd0")
+		(property "Reference" "Q1"
+			(at 87.63 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 87.63 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 87.63 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 82.55 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 82.55 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2368,7 +3868,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 77.47 170.18 0)
+		(at 105.41 124.46 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2378,7 +3878,7 @@
 		(fields_autoplaced yes)
 		(uuid "14e370d3-9bac-4023-b0fa-198472520c36")
 		(property "Reference" "R14"
-			(at 80.01 171.4501 0)
+			(at 107.95 125.7301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2387,7 +3887,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 80.01 168.9101 0)
+			(at 107.95 123.1901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2395,8 +3895,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 75.692 170.18 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 103.632 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2405,7 +3905,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 170.18 0)
+			(at 105.41 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2414,7 +3914,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 77.47 170.18 0)
+			(at 105.41 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2439,7 +3939,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 77.47 104.14 0)
+		(at 105.41 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2448,7 +3948,7 @@
 		(fields_autoplaced yes)
 		(uuid "194d4444-6605-4e1b-8fdf-201e7a0703be")
 		(property "Reference" "#PWR02"
-			(at 77.47 110.49 0)
+			(at 105.41 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2457,7 +3957,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 77.47 109.22 0)
+			(at 105.41 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2465,7 +3965,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 104.14 0)
+			(at 105.41 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2474,7 +3974,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 104.14 0)
+			(at 105.41 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2483,7 +3983,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 104.14 0)
+			(at 105.41 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2504,8 +4004,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 125.73 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1c41c85d-4971-44ed-bd04-e2adfed5255d")
+		(property "Reference" "#PWR019"
+			(at 125.73 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 125.73 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 125.73 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "abf3e363-ae2e-4980-b677-d10f58d1346f")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
-		(at 92.71 118.11 180)
+		(at 120.65 76.2 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2514,7 +4080,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f5c32dc-79d2-4d7e-9651-fdca6f10b893")
 		(property "Reference" "D5"
-			(at 92.71 111.76 0)
+			(at 120.65 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2522,7 +4088,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 92.71 114.3 0)
+			(at 120.65 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2530,7 +4096,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 92.71 118.11 0)
+			(at 120.65 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2539,7 +4105,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 92.71 118.11 0)
+			(at 120.65 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2548,7 +4114,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 92.71 118.11 0)
+			(at 120.65 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2557,7 +4123,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 92.71 118.11 0)
+			(at 120.65 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2566,7 +4132,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 92.71 118.11 0)
+			(at 120.65 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2590,8 +4156,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 114.3 204.47 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "210580dc-a33b-4b4b-8feb-68abce01c66f")
+		(property "Reference" "R30"
+			(at 116.84 205.7401 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 116.84 203.2001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 112.522 204.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 114.3 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3b3b79b8-a42f-48a4-b7d9-b630672247ae")
+		)
+		(pin "1"
+			(uuid "6e1f054a-0f22-4600-86cc-68642a32ab25")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
-		(at 52.07 118.11 180)
+		(at 80.01 76.2 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2600,7 +4237,7 @@
 		(fields_autoplaced yes)
 		(uuid "21f340a5-b7a1-440f-b03b-a7a369a4d35d")
 		(property "Reference" "D1"
-			(at 52.07 111.76 0)
+			(at 80.01 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2608,7 +4245,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 52.07 114.3 0)
+			(at 80.01 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2616,7 +4253,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 52.07 118.11 0)
+			(at 80.01 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2625,7 +4262,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 52.07 118.11 0)
+			(at 80.01 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2634,7 +4271,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 52.07 118.11 0)
+			(at 80.01 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2643,7 +4280,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 52.07 118.11 0)
+			(at 80.01 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2652,7 +4289,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 52.07 118.11 0)
+			(at 80.01 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2676,8 +4313,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 102.87 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "228a0271-38c7-42f0-a798-69014c3fdc79")
+		(property "Reference" "Q13"
+			(at 107.95 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 107.95 165.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 107.95 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 102.87 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 102.87 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "61378620-17da-4e7c-809a-fa544dc7a5c6")
+		)
+		(pin "2"
+			(uuid "4f69eded-e179-4c42-82c5-06f6f16ada4f")
+		)
+		(pin "1"
+			(uuid "4df10df8-f843-4b85-a5b7-4f323ea58659")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
-		(at 86.36 104.14 0)
+		(at 114.3 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2686,7 +4399,7 @@
 		(fields_autoplaced yes)
 		(uuid "23bc9420-85d6-43bc-a78d-15ba85b9b594")
 		(property "Reference" "R5"
-			(at 88.9 102.8699 0)
+			(at 116.84 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2695,7 +4408,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 88.9 105.4099 0)
+			(at 116.84 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2703,8 +4416,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 84.582 104.14 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 112.522 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2713,7 +4426,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 104.14 0)
+			(at 114.3 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2722,7 +4435,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 86.36 104.14 0)
+			(at 114.3 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2747,7 +4460,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 105.41 137.16 0)
+		(at 133.35 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2757,7 +4470,7 @@
 		(fields_autoplaced yes)
 		(uuid "294afed3-f4a5-456a-ad24-79b6999a4f07")
 		(property "Reference" "R17"
-			(at 107.95 138.4301 0)
+			(at 135.89 96.5201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2766,7 +4479,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 107.95 135.8901 0)
+			(at 135.89 93.9801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2774,8 +4487,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 103.632 137.16 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 131.572 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2784,7 +4497,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 137.16 0)
+			(at 133.35 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2793,7 +4506,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 105.41 137.16 0)
+			(at 133.35 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2817,74 +4530,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 34.29 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2a17f944-b45d-4cb4-89d2-a2903e762a21")
-		(property "Reference" "#PWR06"
-			(at 34.29 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 35.814 65.532 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 34.29 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 34.29 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "56e360b6-b94b-4ee4-85d5-d4c92635f28b")
-		)
-		(instances
-			(project ""
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148")
-		(at 72.39 123.19 0)
+		(at 100.33 81.28 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2893,7 +4540,7 @@
 		(dnp no)
 		(uuid "2a76ed2a-1300-454d-9b3b-c75794ca4827")
 		(property "Reference" "D12"
-			(at 72.39 129.54 0)
+			(at 100.33 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2901,7 +4548,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 72.39 127 0)
+			(at 100.33 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2909,7 +4556,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 72.39 123.19 0)
+			(at 100.33 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2918,7 +4565,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 72.39 123.19 0)
+			(at 100.33 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2927,7 +4574,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 72.39 123.19 0)
+			(at 100.33 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2936,7 +4583,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 72.39 123.19 0)
+			(at 100.33 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2945,7 +4592,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 123.19 0)
+			(at 100.33 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2969,8 +4616,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 85.09 151.13 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3095400d-c114-4362-a0cd-0580dbad5250")
+		(property "Reference" "D21"
+			(at 88.9 151.4474 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 88.9 153.9874 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 85.09 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 85.09 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 85.09 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "37b6caf9-f81f-492b-86a5-4602843f6379")
+		)
+		(pin "1"
+			(uuid "09d9b8d8-fcf6-4420-b4a5-ba5a9bf013ba")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 116.84 104.14 0)
+		(at 144.78 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2979,7 +4705,7 @@
 		(fields_autoplaced yes)
 		(uuid "34488de3-3125-46be-add7-b413c2e42bcc")
 		(property "Reference" "#PWR04"
-			(at 116.84 110.49 0)
+			(at 144.78 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2988,7 +4714,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 109.22 0)
+			(at 144.78 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2996,7 +4722,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 104.14 0)
+			(at 144.78 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3005,7 +4731,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 104.14 0)
+			(at 144.78 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3014,7 +4740,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 104.14 0)
+			(at 144.78 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3035,8 +4761,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 85.09 233.68 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "372509aa-bd3e-469c-92e9-9b70d6429889")
+		(property "Reference" "R24"
+			(at 87.63 234.9501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 87.63 232.4101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 83.312 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 85.09 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "027c87f7-ad1f-4fc0-9e91-3079935eafe2")
+		)
+		(pin "1"
+			(uuid "f3296f2c-414f-43d0-b7c3-f3c711c7c22a")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 77.47 137.16 0)
+		(at 105.41 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3046,7 +4843,7 @@
 		(fields_autoplaced yes)
 		(uuid "388d9c17-5ab0-424e-b757-e21a1fb3e0c1")
 		(property "Reference" "#PWR010"
-			(at 77.47 130.81 0)
+			(at 105.41 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3055,7 +4852,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 77.47 132.08 0)
+			(at 105.41 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3063,7 +4860,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 137.16 0)
+			(at 105.41 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3072,7 +4869,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 137.16 0)
+			(at 105.41 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3081,7 +4878,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 137.16 0)
+			(at 105.41 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3103,16 +4900,17 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 137.16 71.12 0)
+		(at 165.1 233.68 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3a906002-a334-4ec9-8f44-30bca910054b")
-		(property "Reference" "R10"
-			(at 139.7 69.8499 0)
+		(uuid "3a62068a-9959-4039-939c-db8baf3e8a98")
+		(property "Reference" "R40"
+			(at 167.64 234.9501 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3121,7 +4919,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 139.7 72.3899 0)
+			(at 167.64 232.4101 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3129,8 +4927,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 135.382 71.12 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 163.322 233.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3139,7 +4937,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 71.12 0)
+			(at 165.1 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3148,7 +4946,77 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 137.16 71.12 0)
+			(at 165.1 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0ff73537-8377-4daf-8ed8-c4b81f43763a")
+		)
+		(pin "1"
+			(uuid "39591859-28b7-4da0-8517-8423e35ea2f2")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 165.1 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a906002-a334-4ec9-8f44-30bca910054b")
+		(property "Reference" "R10"
+			(at 167.64 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 167.64 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 163.322 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 165.1 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3173,7 +5041,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 97.79 157.48 90)
+		(at 125.73 115.57 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3183,7 +5051,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c6caba9-fca2-405f-8389-52d9b91c5fb6")
 		(property "Reference" "D15"
-			(at 101.6 157.1626 90)
+			(at 129.54 112.7124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3191,8 +5059,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 101.6 154.6226 90)
+		(property "Value" "RLED"
+			(at 129.54 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3200,8 +5068,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 97.79 157.48 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 125.73 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3210,7 +5078,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 157.48 0)
+			(at 125.73 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3219,7 +5087,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 97.79 157.48 0)
+			(at 125.73 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3228,7 +5096,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 97.79 157.48 0)
+			(at 125.73 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3253,7 +5121,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 116.84 157.48 90)
+		(at 144.78 115.57 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3263,7 +5131,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e2666ab-8ff1-49be-a0e9-968ed963f2a9")
 		(property "Reference" "D17"
-			(at 120.65 157.1626 90)
+			(at 148.59 112.7124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3271,8 +5139,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 120.65 154.6226 90)
+		(property "Value" "RLED"
+			(at 148.59 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3280,8 +5148,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 116.84 157.48 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 144.78 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3290,7 +5158,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 157.48 0)
+			(at 144.78 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3299,7 +5167,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 116.84 157.48 0)
+			(at 144.78 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3308,7 +5176,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 157.48 0)
+			(at 144.78 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3333,7 +5201,240 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 86.36 137.16 0)
+		(at 93.98 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3eba9c53-d16b-4be2-9e14-33b351fbf601")
+		(property "Reference" "R25"
+			(at 96.52 170.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 96.52 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 92.202 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bfcdce91-f45e-4820-9a73-c48aaa0109aa")
+		)
+		(pin "1"
+			(uuid "9fe78985-83f1-4ad7-99c5-f8bfcb500c2b")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 142.24 212.09 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3ebb7d17-0f95-4397-a191-7124fd17a29e")
+		(property "Reference" "Q18"
+			(at 147.32 213.3601 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 147.32 210.8201 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 147.32 210.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 142.24 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 142.24 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "c9a437db-deec-4f3b-9340-5411f50a9b70")
+		)
+		(pin "2"
+			(uuid "092693d3-630b-44d1-b4be-6296c391f35a")
+		)
+		(pin "1"
+			(uuid "271665f3-3706-4585-b1a8-3a976831e908")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 139.7 185.42 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "438e3d85-e787-4866-b040-0dd17b3aaec0")
+		(property "Reference" "D31"
+			(at 139.7 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 139.7 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 139.7 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 139.7 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 139.7 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 139.7 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 139.7 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "76d9dc40-b6a6-4719-bab9-1788d2abe21a")
+		)
+		(pin "1"
+			(uuid "560ce866-ea40-4b79-b20d-d3d7569c24a6")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 114.3 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3343,7 +5444,7 @@
 		(fields_autoplaced yes)
 		(uuid "47accf3f-81d8-4287-a355-27ae2634a503")
 		(property "Reference" "R15"
-			(at 88.9 138.4301 0)
+			(at 116.84 96.5201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3352,7 +5453,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 88.9 135.8901 0)
+			(at 116.84 93.9801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3360,8 +5461,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 84.582 137.16 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 112.522 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3370,7 +5471,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 137.16 0)
+			(at 114.3 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3379,7 +5480,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 86.36 137.16 0)
+			(at 114.3 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3403,44 +5504,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 77.47 83.82 90)
+		(lib_id "Diode:1N4148")
+		(at 100.33 185.42 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4cfbaa83-f806-49cb-9fc1-06401349eb17")
-		(property "Reference" "D4"
-			(at 81.28 84.1374 90)
+		(uuid "4b3c7a3f-e715-4281-93f5-6718abe8be6c")
+		(property "Reference" "D23"
+			(at 100.33 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 81.28 86.6774 90)
+		(property "Value" "1N4148"
+			(at 100.33 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 77.47 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 77.47 83.82 0)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 100.33 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3448,8 +5538,26 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 77.47 83.82 0)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 100.33 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 100.33 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 100.33 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3458,7 +5566,319 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 83.82 0)
+			(at 100.33 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8ae978c8-7700-4413-a9c0-54a86fd52aa6")
+		)
+		(pin "1"
+			(uuid "2c11b27d-1cb6-4a49-a3a4-f4715ac01794")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 105.41 204.47 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c0805cd-9e7b-48da-97d4-a78b4729e568")
+		(property "Reference" "#PWR018"
+			(at 105.41 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 105.41 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d7ffefe5-6a0e-4249-b4c2-fcc2dc79e7a5")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 80.01 190.5 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4c456504-69e1-407c-b547-0ba03352cc48")
+		(property "Reference" "D20"
+			(at 80.01 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 80.01 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 80.01 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 80.01 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 80.01 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 80.01 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 80.01 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a1ba7a84-15af-4348-b31b-1bc47fd564e4")
+		)
+		(pin "1"
+			(uuid "fc4d5ac6-d2eb-42f5-9176-6e5ecdf1ee0c")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 144.78 224.79 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c55f24c-c3ac-4fc3-a208-650b50906828")
+		(property "Reference" "D34"
+			(at 148.59 221.9324 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 148.59 224.4724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 144.78 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 144.78 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 144.78 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "294c2aab-d8a1-4b21-bee8-bcc4e7ff97e9")
+		)
+		(pin "1"
+			(uuid "b231a14e-cde2-4441-a712-86094e70dbbe")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 105.41 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4cfbaa83-f806-49cb-9fc1-06401349eb17")
+		(property "Reference" "D4"
+			(at 109.22 42.2274 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 109.22 44.7674 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 105.41 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 105.41 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3482,8 +5902,75 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 85.09 204.47 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d4f0e58-0d15-4dd1-ba75-55f87ba9e1c9")
+		(property "Reference" "#PWR016"
+			(at 85.09 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 85.09 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 85.09 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ef2651d8-ffab-4abb-87b8-217593c03246")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
-		(at 52.07 123.19 0)
+		(at 80.01 81.28 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3492,7 +5979,7 @@
 		(dnp no)
 		(uuid "4e9d9680-e7c8-4078-8727-a7e0606d2d31")
 		(property "Reference" "D9"
-			(at 52.07 129.54 0)
+			(at 80.01 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3500,7 +5987,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 52.07 127 0)
+			(at 80.01 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3508,7 +5995,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 52.07 123.19 0)
+			(at 80.01 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3517,7 +6004,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 52.07 123.19 0)
+			(at 80.01 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3526,7 +6013,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 52.07 123.19 0)
+			(at 80.01 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3535,7 +6022,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 52.07 123.19 0)
+			(at 80.01 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3544,7 +6031,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 52.07 123.19 0)
+			(at 80.01 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3569,7 +6056,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 125.73 137.16 0)
+		(at 153.67 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3579,7 +6066,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f79223c-2579-4e0a-bdfe-fe702888df1c")
 		(property "Reference" "R19"
-			(at 128.27 138.4301 0)
+			(at 156.21 96.5201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3588,7 +6075,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 128.27 135.8901 0)
+			(at 156.21 93.9801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3596,8 +6083,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 123.952 137.16 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 151.892 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3606,7 +6093,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 137.16 0)
+			(at 153.67 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3615,7 +6102,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 125.73 137.16 0)
+			(at 153.67 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3639,8 +6126,229 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 144.78 233.68 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "54f9e616-f99f-4db7-80da-66ba3a4e3309")
+		(property "Reference" "R36"
+			(at 147.32 234.9501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 147.32 232.4101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 143.002 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 144.78 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5c042644-35b6-4d0e-8cda-24f69747a443")
+		)
+		(pin "1"
+			(uuid "4e04c30a-214f-481a-9547-b47ab3772f75")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 125.73 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5bb1d829-ca49-4506-9533-6e64e0ecf146")
+		(property "Reference" "R31"
+			(at 128.27 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 128.27 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 123.952 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 125.73 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bb76393b-a928-488a-9ac3-7289a4f950a3")
+		)
+		(pin "1"
+			(uuid "cd37f33e-b813-4178-83a8-1f5bda7528c1")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 165.1 224.79 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "600ede89-75ca-405f-9ca8-762964395795")
+		(property "Reference" "D36"
+			(at 168.91 221.9324 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 168.91 224.4724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 165.1 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 165.1 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 165.1 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "514e63cf-aac5-44f7-8da6-ab76cff987a7")
+		)
+		(pin "1"
+			(uuid "4cf5c6e6-44b3-4142-b1f3-6e3abb0778eb")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 97.79 104.14 0)
+		(at 125.73 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3649,7 +6357,7 @@
 		(fields_autoplaced yes)
 		(uuid "654c6e09-c814-47a0-8125-7be364dfb723")
 		(property "Reference" "#PWR03"
-			(at 97.79 110.49 0)
+			(at 125.73 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3658,7 +6366,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 109.22 0)
+			(at 125.73 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3666,7 +6374,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 104.14 0)
+			(at 125.73 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3675,7 +6383,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 104.14 0)
+			(at 125.73 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3684,7 +6392,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 104.14 0)
+			(at 125.73 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3705,8 +6413,433 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 73.66 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "69ff8ef9-1321-4e43-aff8-d069a623704a")
+		(property "Reference" "R21"
+			(at 76.2 170.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 76.2 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 71.882 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 73.66 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "285b7f79-0dee-46cb-8567-6cfd72dcb97a")
+		)
+		(pin "1"
+			(uuid "29b474f5-949f-45bd-b8d5-a801b90d1624")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 73.66 204.47 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a0217c6-1010-4d46-b64b-617e68580e7f")
+		(property "Reference" "R22"
+			(at 76.2 205.7401 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 76.2 203.2001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 71.882 204.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 73.66 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e91ab829-9d0e-4e1a-bcdc-b5fc29bf68a2")
+		)
+		(pin "1"
+			(uuid "23f710c5-fe98-4364-8e54-345e22f5b97d")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 105.41 233.68 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b2f5d73-068b-4398-babf-02896a7db2df")
+		(property "Reference" "R28"
+			(at 107.95 234.9501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 107.95 232.4101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 103.632 233.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 105.41 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "39975df6-3ebb-47c5-a49b-25d34b0c4ca0")
+		)
+		(pin "1"
+			(uuid "15ef6bb7-2a4e-45cc-8e7b-8fa8c995ebe7")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 105.41 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b45c22e-4696-4367-90c1-09c083150837")
+		(property "Reference" "R27"
+			(at 107.95 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 107.95 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 103.632 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 105.41 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d1023873-bc1c-4236-b347-fe181f9b6703")
+		)
+		(pin "1"
+			(uuid "90fd5ddc-45df-45f2-9131-4a02bb482fed")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 82.55 212.09 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6d465fe3-eea3-43f1-95a8-fd582c177a73")
+		(property "Reference" "Q12"
+			(at 87.63 213.3601 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 87.63 210.8201 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 87.63 210.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 82.55 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 82.55 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e07cbc87-9507-4db1-ab88-1cf884afd5a2")
+		)
+		(pin "2"
+			(uuid "3f8bbaa1-f992-4791-bd62-516999959182")
+		)
+		(pin "1"
+			(uuid "29af70f4-24d1-44c4-8223-a5c644a0cd04")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 165.1 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6e4675ce-9f00-4f9a-ad53-3b7963378ecd")
+		(property "Reference" "#PWR023"
+			(at 165.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 165.1 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 165.1 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0be1dd5a-8d46-4879-abc9-0b7feb84f5c4")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
-		(at 77.47 157.48 90)
+		(at 105.41 115.57 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3716,7 +6849,7 @@
 		(fields_autoplaced yes)
 		(uuid "6fc9f419-bb3b-49f4-8716-3c3f57e7e666")
 		(property "Reference" "D13"
-			(at 81.28 157.1626 90)
+			(at 109.22 112.7124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3724,8 +6857,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 81.28 154.6226 90)
+		(property "Value" "RLED"
+			(at 109.22 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3733,8 +6866,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 77.47 157.48 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 105.41 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3743,7 +6876,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 157.48 0)
+			(at 105.41 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3752,7 +6885,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 77.47 157.48 0)
+			(at 105.41 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3761,7 +6894,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 157.48 0)
+			(at 105.41 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3786,7 +6919,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 111.76 118.11 180)
+		(at 139.7 76.2 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3795,7 +6928,7 @@
 		(fields_autoplaced yes)
 		(uuid "70f997d6-9947-4d6b-a708-b1d583ede971")
 		(property "Reference" "D7"
-			(at 111.76 111.76 0)
+			(at 139.7 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3803,7 +6936,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 111.76 114.3 0)
+			(at 139.7 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3811,7 +6944,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 111.76 118.11 0)
+			(at 139.7 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3820,7 +6953,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 111.76 118.11 0)
+			(at 139.7 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3829,7 +6962,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 111.76 118.11 0)
+			(at 139.7 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3838,7 +6971,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 111.76 118.11 0)
+			(at 139.7 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3847,7 +6980,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 111.76 118.11 0)
+			(at 139.7 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3872,7 +7005,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 114.3 144.78 0)
+		(at 142.24 102.87 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3882,7 +7015,7 @@
 		(fields_autoplaced yes)
 		(uuid "7141f448-4d3b-4d11-a230-c3f0876bc7ed")
 		(property "Reference" "Q9"
-			(at 119.38 146.0501 0)
+			(at 147.32 104.1401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3891,7 +7024,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 119.38 143.5101 0)
+			(at 147.32 101.6001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3900,7 +7033,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 119.38 142.875 0)
+			(at 147.32 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3911,7 +7044,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 114.3 144.78 0)
+			(at 142.24 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3921,7 +7054,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 114.3 144.78 0)
+			(at 142.24 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3949,7 +7082,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 54.61 144.78 0)
+		(at 82.55 102.87 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3959,7 +7092,7 @@
 		(fields_autoplaced yes)
 		(uuid "739b18f0-fa4a-4b4b-aa71-921802252d60")
 		(property "Reference" "Q6"
-			(at 59.69 146.0501 0)
+			(at 87.63 104.1401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3968,7 +7101,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 59.69 143.5101 0)
+			(at 87.63 101.6001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3977,7 +7110,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 59.69 142.875 0)
+			(at 87.63 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3988,7 +7121,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 54.61 144.78 0)
+			(at 82.55 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3998,7 +7131,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 54.61 144.78 0)
+			(at 82.55 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4026,7 +7159,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 34.29 118.11 0)
+		(at 62.23 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4035,7 +7168,7 @@
 		(fields_autoplaced yes)
 		(uuid "75cc603c-fe49-4e9c-b741-af92f472c5de")
 		(property "Reference" "RV1"
-			(at 31.75 116.8399 0)
+			(at 59.69 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4044,7 +7177,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer"
-			(at 31.75 119.3799 0)
+			(at 59.69 77.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4052,8 +7185,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 34.29 118.11 0)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386F_Vertical"
+			(at 62.23 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4062,7 +7195,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 34.29 118.11 0)
+			(at 62.23 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4071,7 +7204,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 34.29 118.11 0)
+			(at 62.23 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4099,7 +7232,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 45.72 137.16 0)
+		(at 73.66 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4109,7 +7242,7 @@
 		(fields_autoplaced yes)
 		(uuid "7627f852-4812-4bcb-b110-2552a5c8ef0e")
 		(property "Reference" "R11"
-			(at 48.26 138.4301 0)
+			(at 76.2 96.5201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4118,7 +7251,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 48.26 135.8901 0)
+			(at 76.2 93.9801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4126,8 +7259,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 43.942 137.16 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 71.882 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4136,7 +7269,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 137.16 0)
+			(at 73.66 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4145,7 +7278,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 45.72 137.16 0)
+			(at 73.66 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4169,8 +7302,213 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 144.78 204.47 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ac0d4ac-509a-454c-85d7-e872715f241c")
+		(property "Reference" "#PWR022"
+			(at 144.78 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 144.78 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 144.78 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f94addb9-a49a-4dfd-be0e-f65befcbc414")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
-		(at 137.16 170.18 0)
+		(at 93.98 204.47 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bea9859-4194-4890-bd8d-8ddcefe0a3d3")
+		(property "Reference" "R26"
+			(at 96.52 205.7401 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 96.52 203.2001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 92.202 204.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b7498b4f-9ab9-4eb8-8d8d-142a3e16a187")
+		)
+		(pin "1"
+			(uuid "89182cb9-c7d1-4cf1-ba75-f536fd77acd3")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 165.1 204.47 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d4cac7c-52dc-4678-adb1-9c74fb899b53")
+		(property "Reference" "#PWR024"
+			(at 165.1 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 165.1 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 165.1 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2c6e7717-0788-489a-838e-5cf6dda2cef7")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 165.1 124.46 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4180,7 +7518,7 @@
 		(fields_autoplaced yes)
 		(uuid "8030c430-8367-4a64-b367-c8a7de99ae5c")
 		(property "Reference" "R20"
-			(at 139.7 171.4501 0)
+			(at 167.64 125.7301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4189,7 +7527,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 139.7 168.9101 0)
+			(at 167.64 123.1901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4197,8 +7535,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 135.382 170.18 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 163.322 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4207,7 +7545,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 170.18 0)
+			(at 165.1 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4216,7 +7554,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 137.16 170.18 0)
+			(at 165.1 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4241,7 +7579,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 104.14 0)
+		(at 165.1 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4250,7 +7588,7 @@
 		(fields_autoplaced yes)
 		(uuid "81eb5020-5f5b-43a7-99dd-bb074b2e27f8")
 		(property "Reference" "#PWR05"
-			(at 137.16 110.49 0)
+			(at 165.1 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4259,7 +7597,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 137.16 109.22 0)
+			(at 165.1 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4267,7 +7605,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 104.14 0)
+			(at 165.1 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4276,7 +7614,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 104.14 0)
+			(at 165.1 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4285,7 +7623,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 104.14 0)
+			(at 165.1 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4306,8 +7644,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148")
+		(at 100.33 190.5 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "839f2e6a-fdb9-4824-b0af-5940ee2d2260")
+		(property "Reference" "D24"
+			(at 100.33 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 100.33 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 100.33 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 100.33 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 100.33 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 100.33 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "49cacd00-44a1-45bb-a937-597e71786ffc")
+		)
+		(pin "1"
+			(uuid "19567e16-c454-4838-9424-c94d34404c54")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 114.3 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "870c3fd1-4e84-4500-93ea-0d622958e44a")
+		(property "Reference" "R29"
+			(at 116.84 170.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 116.84 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 112.522 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 114.3 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0abd34a4-0435-4838-a0f3-36b03fedfcbd")
+		)
+		(pin "1"
+			(uuid "3d9709d4-3c81-4537-89f6-ec299548ed50")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 114.3 96.52 0)
+		(at 142.24 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4316,7 +7810,7 @@
 		(fields_autoplaced yes)
 		(uuid "8747a55a-dcec-415a-8443-667dcc221336")
 		(property "Reference" "Q4"
-			(at 119.38 95.2499 0)
+			(at 147.32 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4325,7 +7819,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 119.38 97.7899 0)
+			(at 147.32 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4334,7 +7828,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 119.38 98.425 0)
+			(at 147.32 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4345,7 +7839,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 114.3 96.52 0)
+			(at 142.24 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4355,7 +7849,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 114.3 96.52 0)
+			(at 142.24 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4382,8 +7876,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 162.56 212.09 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8b924504-09bd-4335-9569-f17e1a2be811")
+		(property "Reference" "Q20"
+			(at 167.64 213.3601 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 167.64 210.8201 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 167.64 210.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 162.56 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 162.56 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d89e8179-58a5-4b1a-9537-ac3ec8ac7562")
+		)
+		(pin "2"
+			(uuid "a5a6d72b-d2e8-42e7-8f8e-322c8463f4d7")
+		)
+		(pin "1"
+			(uuid "671e188f-3a5a-4c4f-ba00-67056877d37c")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 97.79 137.16 0)
+		(at 125.73 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4393,7 +7964,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e5b8fcd-4681-42b7-96d8-760400104485")
 		(property "Reference" "#PWR011"
-			(at 97.79 130.81 0)
+			(at 125.73 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4402,7 +7973,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 97.79 132.08 0)
+			(at 125.73 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4410,7 +7981,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 137.16 0)
+			(at 125.73 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4419,7 +7990,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 137.16 0)
+			(at 125.73 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4428,7 +7999,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 137.16 0)
+			(at 125.73 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4450,7 +8021,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 137.16 0)
+		(at 165.1 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4460,7 +8031,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f92d058-0341-4d80-9d70-1777415319dc")
 		(property "Reference" "#PWR013"
-			(at 137.16 130.81 0)
+			(at 165.1 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4469,7 +8040,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 137.16 132.08 0)
+			(at 165.1 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4477,7 +8048,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 137.16 0)
+			(at 165.1 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4486,7 +8057,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 137.16 0)
+			(at 165.1 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4495,7 +8066,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 137.16 0)
+			(at 165.1 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4517,7 +8088,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 45.72 104.14 0)
+		(at 73.66 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4526,7 +8097,7 @@
 		(fields_autoplaced yes)
 		(uuid "8fba3ca9-4f6c-4b9e-a262-ef13209c05cb")
 		(property "Reference" "R1"
-			(at 48.26 102.8699 0)
+			(at 76.2 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4535,7 +8106,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 48.26 105.4099 0)
+			(at 76.2 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4543,8 +8114,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 43.942 104.14 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 71.882 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4553,7 +8124,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 104.14 0)
+			(at 73.66 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4562,7 +8133,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 45.72 104.14 0)
+			(at 73.66 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4587,7 +8158,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 137.16 83.82 90)
+		(at 165.1 41.91 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4596,7 +8167,7 @@
 		(fields_autoplaced yes)
 		(uuid "967a67ca-ae82-4ddf-ad42-3f7be5a2bbd2")
 		(property "Reference" "D10"
-			(at 140.97 84.1374 90)
+			(at 168.91 42.2274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4604,8 +8175,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 140.97 86.6774 90)
+		(property "Value" "RLED"
+			(at 168.91 44.7674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4613,8 +8184,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 137.16 83.82 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 165.1 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4623,7 +8194,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 83.82 0)
+			(at 165.1 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4632,7 +8203,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 137.16 83.82 0)
+			(at 165.1 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4641,7 +8212,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 83.82 0)
+			(at 165.1 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4665,8 +8236,81 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Potentiometer")
+		(at 62.23 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97f34779-725b-4d08-93d2-a33cd7ee77fc")
+		(property "Reference" "RV2"
+			(at 59.69 184.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R_Potentiometer"
+			(at 59.69 186.6899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3386F_Vertical"
+			(at 62.23 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometer"
+			(at 62.23 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "58d2b352-ec61-4a0b-aa68-a0d4869d7dbf")
+		)
+		(pin "1"
+			(uuid "c1aecdc7-68b0-4054-9375-b37b593c2b35")
+		)
+		(pin "3"
+			(uuid "15e7a947-a7e2-47de-8362-7ddd21f5f26e")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "RV2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 74.93 144.78 0)
+		(at 102.87 102.87 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4676,7 +8320,7 @@
 		(fields_autoplaced yes)
 		(uuid "998fd8b0-c241-49a3-81f9-5b2c91d7232d")
 		(property "Reference" "Q7"
-			(at 80.01 146.0501 0)
+			(at 107.95 104.1401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4685,7 +8329,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 80.01 143.5101 0)
+			(at 107.95 101.6001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4694,7 +8338,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 80.01 142.875 0)
+			(at 107.95 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4705,7 +8349,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 74.93 144.78 0)
+			(at 102.87 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4715,7 +8359,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 74.93 144.78 0)
+			(at 102.87 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4743,7 +8387,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 105.41 104.14 0)
+		(at 133.35 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4752,7 +8396,7 @@
 		(fields_autoplaced yes)
 		(uuid "9a9816b8-6be5-4e29-930f-5c6345303145")
 		(property "Reference" "R7"
-			(at 107.95 102.8699 0)
+			(at 135.89 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4761,7 +8405,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 107.95 105.4099 0)
+			(at 135.89 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4769,8 +8413,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 103.632 104.14 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 131.572 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4779,7 +8423,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 104.14 0)
+			(at 133.35 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4788,7 +8432,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 105.41 104.14 0)
+			(at 133.35 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4812,8 +8456,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 85.09 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9ab90cda-a753-4ae1-8542-edc062e116e3")
+		(property "Reference" "#PWR015"
+			(at 85.09 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 85.09 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 85.09 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8fac101e-03bd-437e-ba05-a349a2b12dec")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
-		(at 111.76 123.19 0)
+		(at 139.7 81.28 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4822,7 +8532,7 @@
 		(dnp no)
 		(uuid "9cc3c551-55a2-4e10-bdd9-d34011e95b65")
 		(property "Reference" "D16"
-			(at 111.76 129.54 0)
+			(at 139.7 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4830,7 +8540,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 111.76 127 0)
+			(at 139.7 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4838,7 +8548,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 111.76 123.19 0)
+			(at 139.7 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,7 +8557,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 111.76 123.19 0)
+			(at 139.7 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4856,7 +8566,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 111.76 123.19 0)
+			(at 139.7 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4865,7 +8575,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 111.76 123.19 0)
+			(at 139.7 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4874,7 +8584,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 111.76 123.19 0)
+			(at 139.7 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4899,7 +8609,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 116.84 71.12 0)
+		(at 144.78 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4908,7 +8618,7 @@
 		(fields_autoplaced yes)
 		(uuid "9ef5c5c2-e818-414d-9f08-eadb7f28e189")
 		(property "Reference" "R8"
-			(at 119.38 69.8499 0)
+			(at 147.32 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4917,7 +8627,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 119.38 72.3899 0)
+			(at 147.32 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4925,8 +8635,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 115.062 71.12 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 143.002 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4935,7 +8645,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 71.12 0)
+			(at 144.78 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4944,7 +8654,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 116.84 71.12 0)
+			(at 144.78 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4968,8 +8678,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 142.24 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a51ced29-aa62-4b75-8b9f-477b67a77139")
+		(property "Reference" "Q17"
+			(at 147.32 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 147.32 165.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 147.32 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 142.24 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 142.24 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "246635eb-ed7f-44ce-ba4e-eee71d51330a")
+		)
+		(pin "2"
+			(uuid "733f6497-171f-46cc-9329-9459b54b82ec")
+		)
+		(pin "1"
+			(uuid "cc7a4644-5501-4a6f-b9eb-17568c37f8f7")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
-		(at 116.84 83.82 90)
+		(at 144.78 41.91 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4978,7 +8764,7 @@
 		(fields_autoplaced yes)
 		(uuid "a56dd0df-f181-4f0a-ad54-467132a69b03")
 		(property "Reference" "D8"
-			(at 120.65 84.1374 90)
+			(at 148.59 42.2274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4986,8 +8772,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 120.65 86.6774 90)
+		(property "Value" "RLED"
+			(at 148.59 44.7674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4995,8 +8781,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 116.84 83.82 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 144.78 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5005,7 +8791,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 83.82 0)
+			(at 144.78 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5014,7 +8800,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 116.84 83.82 0)
+			(at 144.78 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5023,7 +8809,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 83.82 0)
+			(at 144.78 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5048,16 +8834,17 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 77.47 71.12 0)
+		(at 133.35 204.47 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ac1f3e8b-a48b-4495-9ce8-86935d82bafe")
-		(property "Reference" "R4"
-			(at 80.01 69.8499 0)
+		(uuid "a592827b-be2b-462f-b4d6-679103740986")
+		(property "Reference" "R34"
+			(at 135.89 205.7401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5065,8 +8852,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220"
-			(at 80.01 72.3899 0)
+		(property "Value" "10k"
+			(at 135.89 203.2001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5074,8 +8861,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 75.692 71.12 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 131.572 204.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5084,7 +8871,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 71.12 0)
+			(at 133.35 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5093,7 +8880,77 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 77.47 71.12 0)
+			(at 133.35 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f9563418-fc10-45fe-91af-1f76fb7e5344")
+		)
+		(pin "1"
+			(uuid "82a04be1-efad-4592-934c-627b301277d8")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 105.41 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac1f3e8b-a48b-4495-9ce8-86935d82bafe")
+		(property "Reference" "R4"
+			(at 107.95 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 107.95 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 103.632 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 105.41 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5117,8 +8974,166 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 165.1 151.13 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac961ba4-8784-4910-8f55-1afed7ae3554")
+		(property "Reference" "D35"
+			(at 168.91 151.4474 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 168.91 153.9874 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 165.1 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 165.1 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 165.1 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d62eb365-4611-4a19-8f79-5b5be0c58e56")
+		)
+		(pin "1"
+			(uuid "90ce5dde-0d64-488d-83cf-e644489cdbfa")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 125.73 151.13 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "acf5598f-7bda-4c96-851c-aae0a617137d")
+		(property "Reference" "D29"
+			(at 129.54 151.4474 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 129.54 153.9874 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 125.73 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 125.73 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 125.73 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9269923a-a2e2-48d4-bd79-6046c1bc5d22")
+		)
+		(pin "1"
+			(uuid "7463130a-ad11-4b2e-901a-e19795a6372e")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
-		(at 66.04 137.16 0)
+		(at 93.98 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5128,7 +9143,7 @@
 		(fields_autoplaced yes)
 		(uuid "b093a84c-3170-470f-9f1f-a5ab0f652069")
 		(property "Reference" "R13"
-			(at 68.58 138.4301 0)
+			(at 96.52 96.5201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5137,7 +9152,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 68.58 135.8901 0)
+			(at 96.52 93.9801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5145,8 +9160,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 64.262 137.16 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 92.202 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5155,7 +9170,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 137.16 0)
+			(at 93.98 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5164,7 +9179,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 66.04 137.16 0)
+			(at 93.98 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5189,7 +9204,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 34.29 124.46 0)
+		(at 62.23 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5198,7 +9213,7 @@
 		(fields_autoplaced yes)
 		(uuid "b6f4f6fe-9c2d-4018-8957-a327b5518689")
 		(property "Reference" "#PWR07"
-			(at 34.29 130.81 0)
+			(at 62.23 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5207,7 +9222,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 34.29 129.54 0)
+			(at 62.23 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +9230,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 34.29 124.46 0)
+			(at 62.23 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5224,7 +9239,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 124.46 0)
+			(at 62.23 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5233,7 +9248,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 34.29 124.46 0)
+			(at 62.23 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5255,7 +9270,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 97.79 170.18 0)
+		(at 125.73 124.46 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5265,7 +9280,7 @@
 		(fields_autoplaced yes)
 		(uuid "baa3feee-9d89-4d97-96d0-8fdd6d5a5ffe")
 		(property "Reference" "R16"
-			(at 100.33 171.4501 0)
+			(at 128.27 125.7301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5274,7 +9289,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 100.33 168.9101 0)
+			(at 128.27 123.1901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5282,8 +9297,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 96.012 170.18 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 123.952 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5292,7 +9307,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 170.18 0)
+			(at 125.73 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5301,7 +9316,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 97.79 170.18 0)
+			(at 125.73 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5325,8 +9340,157 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 105.41 151.13 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bf460a5d-dd72-4ed9-bd20-24d1978d04c9")
+		(property "Reference" "D25"
+			(at 109.22 151.4474 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 109.22 153.9874 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 105.41 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 105.41 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d4bd0983-8f16-4308-b4c7-ca054414fdcf")
+		)
+		(pin "1"
+			(uuid "67f10909-16e6-4e36-85f6-5af03f3ef662")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 85.09 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c072a612-e8bf-4510-914a-9b89fe9ebc0e")
+		(property "Reference" "R23"
+			(at 87.63 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 87.63 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 83.312 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 85.09 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "52453eaa-64cf-48bd-b3c8-ceaff0d4421a")
+		)
+		(pin "1"
+			(uuid "113249f0-57ab-4487-82ef-591093346b51")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 57.15 104.14 0)
+		(at 85.09 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5335,7 +9499,7 @@
 		(fields_autoplaced yes)
 		(uuid "c0aefd73-6116-46d1-b1e1-cde56f36adfb")
 		(property "Reference" "#PWR01"
-			(at 57.15 110.49 0)
+			(at 85.09 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5344,7 +9508,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.15 109.22 0)
+			(at 85.09 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5352,7 +9516,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 104.14 0)
+			(at 85.09 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5361,7 +9525,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 104.14 0)
+			(at 85.09 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5370,7 +9534,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 57.15 104.14 0)
+			(at 85.09 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5391,8 +9555,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 162.56 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c0c1b4ed-134a-4792-9bd5-a6d8c6817c48")
+		(property "Reference" "Q19"
+			(at 167.64 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 167.64 165.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 167.64 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 162.56 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 162.56 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b4f643be-e1e8-4135-a17d-f14ca25dd07f")
+		)
+		(pin "2"
+			(uuid "bc4e9b2f-f9cb-404d-9e3b-eab12336469f")
+		)
+		(pin "1"
+			(uuid "118a7a28-7114-4542-9600-58c21e7d519d")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 116.84 137.16 0)
+		(at 144.78 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5402,7 +9642,7 @@
 		(fields_autoplaced yes)
 		(uuid "c14b4778-1ce0-4a93-a6d3-cfa8a8148861")
 		(property "Reference" "#PWR012"
-			(at 116.84 130.81 0)
+			(at 144.78 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5411,7 +9651,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 116.84 132.08 0)
+			(at 144.78 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5419,7 +9659,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 137.16 0)
+			(at 144.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5428,7 +9668,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 137.16 0)
+			(at 144.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5437,7 +9677,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 137.16 0)
+			(at 144.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5459,7 +9699,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 125.73 104.14 0)
+		(at 153.67 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5468,7 +9708,7 @@
 		(fields_autoplaced yes)
 		(uuid "c31e3f8b-b3e8-4797-ad4c-ef0a9196cb71")
 		(property "Reference" "R9"
-			(at 128.27 102.8699 0)
+			(at 156.21 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5477,7 +9717,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 128.27 105.4099 0)
+			(at 156.21 63.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5485,8 +9725,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 123.952 104.14 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 151.892 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5495,7 +9735,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 104.14 0)
+			(at 153.67 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5504,7 +9744,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 125.73 104.14 0)
+			(at 153.67 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5529,7 +9769,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 57.15 157.48 90)
+		(at 85.09 115.57 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5539,7 +9779,7 @@
 		(fields_autoplaced yes)
 		(uuid "c67814d5-603e-4468-9cc4-2b1ece3ac67a")
 		(property "Reference" "D11"
-			(at 60.96 157.1626 90)
+			(at 88.9 112.7124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5547,8 +9787,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 60.96 154.6226 90)
+		(property "Value" "RLED"
+			(at 88.9 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5556,8 +9796,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 57.15 157.48 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 85.09 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5566,7 +9806,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 157.48 0)
+			(at 85.09 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5575,7 +9815,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 57.15 157.48 0)
+			(at 85.09 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5584,7 +9824,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 57.15 157.48 0)
+			(at 85.09 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5609,7 +9849,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 57.15 170.18 0)
+		(at 85.09 124.46 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5619,7 +9859,7 @@
 		(fields_autoplaced yes)
 		(uuid "c758ed92-17d8-4656-820c-0d6740781719")
 		(property "Reference" "R12"
-			(at 59.69 171.4501 0)
+			(at 87.63 125.7301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5628,7 +9868,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 59.69 168.9101 0)
+			(at 87.63 123.1901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5636,8 +9876,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.372 170.18 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 83.312 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5646,7 +9886,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 170.18 0)
+			(at 85.09 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5655,7 +9895,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 57.15 170.18 0)
+			(at 85.09 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5680,7 +9920,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 134.62 144.78 0)
+		(at 162.56 102.87 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5690,7 +9930,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc453af1-7fab-45c5-8b3c-c5ef548961f5")
 		(property "Reference" "Q10"
-			(at 139.7 146.0501 0)
+			(at 167.64 104.1401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5699,7 +9939,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 139.7 143.5101 0)
+			(at 167.64 101.6001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5708,7 +9948,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 139.7 142.875 0)
+			(at 167.64 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5719,7 +9959,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 134.62 144.78 0)
+			(at 162.56 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5729,7 +9969,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 134.62 144.78 0)
+			(at 162.56 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5756,8 +9996,224 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 144.78 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cdce0289-985f-4c6f-bb61-2d5e7bebf3f5")
+		(property "Reference" "R35"
+			(at 147.32 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 147.32 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 143.002 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 144.78 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6f0bc11c-d451-4109-af0d-daa8fbcdb916")
+		)
+		(pin "1"
+			(uuid "d43e3b91-6f8f-47e6-8391-5d80546906b1")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 125.73 224.79 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cdce232f-b0d2-4306-97e9-63f6216c468c")
+		(property "Reference" "D30"
+			(at 129.54 221.9324 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 129.54 224.4724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 125.73 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 125.73 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 125.73 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7f8cdfcf-7438-48b9-abac-bf7e6b20ee7a")
+		)
+		(pin "1"
+			(uuid "8233a4e1-9dfa-42ce-a85c-ae1f198cf89c")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 144.78 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cef60125-1179-4297-afda-16cfccd03702")
+		(property "Reference" "#PWR021"
+			(at 144.78 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 144.78 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 144.78 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2178d492-1207-4b50-80cc-c9623a217a1d")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 95.25 144.78 0)
+		(at 123.19 102.87 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5767,7 +10223,7 @@
 		(fields_autoplaced yes)
 		(uuid "d0fa1bb8-7f9d-458e-8555-9815b80a920d")
 		(property "Reference" "Q8"
-			(at 100.33 146.0501 0)
+			(at 128.27 104.1401 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5776,7 +10232,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 100.33 143.5101 0)
+			(at 128.27 101.6001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5785,7 +10241,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 100.33 142.875 0)
+			(at 128.27 100.965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5796,7 +10252,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 95.25 144.78 0)
+			(at 123.19 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5806,7 +10262,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 95.25 144.78 0)
+			(at 123.19 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5833,8 +10289,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 105.41 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d21da246-30a9-4826-bb72-b31cd1d0dd8a")
+		(property "Reference" "#PWR017"
+			(at 105.41 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 105.41 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "131b3c56-53c9-4fe9-93d8-7141cb394fcf")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
-		(at 137.16 157.48 90)
+		(at 165.1 115.57 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5844,7 +10366,7 @@
 		(fields_autoplaced yes)
 		(uuid "d4ab9536-f296-4926-87a2-a354b8f02f20")
 		(property "Reference" "D18"
-			(at 140.97 157.1626 90)
+			(at 168.91 112.7124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5852,8 +10374,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 140.97 154.6226 90)
+		(property "Value" "RLED"
+			(at 168.91 115.2524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5861,8 +10383,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 137.16 157.48 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 165.1 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5871,7 +10393,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 157.48 0)
+			(at 165.1 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5880,7 +10402,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 137.16 157.48 0)
+			(at 165.1 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5889,7 +10411,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 157.48 0)
+			(at 165.1 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5914,7 +10436,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 57.15 83.82 90)
+		(at 85.09 41.91 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5923,7 +10445,7 @@
 		(fields_autoplaced yes)
 		(uuid "d51e9474-1826-48e3-9c14-01934a8333d2")
 		(property "Reference" "D2"
-			(at 60.96 84.1374 90)
+			(at 88.9 42.2274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5931,8 +10453,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 60.96 86.6774 90)
+		(property "Value" "RLED"
+			(at 88.9 44.7674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5940,8 +10462,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 57.15 83.82 0)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 85.09 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5950,7 +10472,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 83.82 0)
+			(at 85.09 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5959,7 +10481,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 57.15 83.82 0)
+			(at 85.09 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5968,7 +10490,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 57.15 83.82 0)
+			(at 85.09 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5992,42 +10514,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 72.39 118.11 180)
+		(lib_id "Device:R")
+		(at 153.67 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "de9d8377-60d5-42bb-8117-1fc4145ef17c")
-		(property "Reference" "D3"
-			(at 72.39 111.76 0)
+		(uuid "d662163d-7dd9-4c15-b028-59a3bd17bf25")
+		(property "Reference" "R37"
+			(at 156.21 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "1N4148"
-			(at 72.39 114.3 0)
+		(property "Value" "10k"
+			(at 156.21 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 72.39 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 72.39 118.11 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 151.892 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6035,8 +10550,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 72.39 118.11 0)
+		(property "Datasheet" "~"
+			(at 153.67 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6044,8 +10559,79 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 72.39 118.11 0)
+		(property "Description" "Resistor"
+			(at 153.67 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f2d3c77e-bd44-4ba0-81d8-19d97149f6f5")
+		)
+		(pin "1"
+			(uuid "8580b474-a11e-411d-9f63-f8f1dfaf7a2a")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 85.09 224.79 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc49c92a-59f6-4a58-8c56-dc700649ef69")
+		(property "Reference" "D22"
+			(at 88.9 221.9324 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 88.9 224.4724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 85.09 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 85.09 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6054,7 +10640,169 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 72.39 118.11 0)
+			(at 85.09 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b309247c-68cf-41d1-8426-c3c6e460fcf2")
+		)
+		(pin "1"
+			(uuid "74de3775-5164-47f3-9664-659fad4494de")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC547")
+		(at 123.19 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd86184f-a88d-41f5-8f7d-aec94d81d2f7")
+		(property "Reference" "Q15"
+			(at 128.27 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC547"
+			(at 128.27 165.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 128.27 165.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 123.19 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 123.19 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f7f41d22-dce6-466e-9663-905f3d1e9a7d")
+		)
+		(pin "2"
+			(uuid "800c4a64-66f5-48f7-901e-5509a94f95c1")
+		)
+		(pin "1"
+			(uuid "13512240-d103-429f-b4af-7a02eb789b3b")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 100.33 76.2 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de9d8377-60d5-42bb-8117-1fc4145ef17c")
+		(property "Reference" "D3"
+			(at 100.33 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 100.33 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 100.33 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6078,35 +10826,36 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 57.15 71.12 0)
+		(lib_id "Device:LED")
+		(at 105.41 224.79 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e6c3e0ec-1b77-438b-890d-abf4fbb74208")
-		(property "Reference" "R2"
-			(at 59.69 69.8499 0)
+		(uuid "e0518214-9377-4fa9-9995-364e9143df10")
+		(property "Reference" "D26"
+			(at 109.22 221.9324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "220"
-			(at 59.69 72.3899 0)
+		(property "Value" "RLED"
+			(at 109.22 224.4724 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" ""
-			(at 55.372 71.12 90)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 105.41 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6115,7 +10864,239 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 71.12 0)
+			(at 105.41 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 105.41 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cea27106-5458-40ed-b4a7-160d90371baa")
+		)
+		(pin "1"
+			(uuid "e5064979-567e-4aea-b15f-8da348038970")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 80.01 185.42 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e48145c0-0d29-4c47-ab40-cf759efebd37")
+		(property "Reference" "D19"
+			(at 80.01 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 80.01 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 80.01 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 80.01 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 80.01 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 80.01 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 80.01 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a41436cf-ed7c-4535-8377-35b7386942c3")
+		)
+		(pin "1"
+			(uuid "dae52282-7f03-49c7-a311-a911b73e478c")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 125.73 204.47 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e554a2c0-1d1d-4925-b677-ac0762f099e6")
+		(property "Reference" "#PWR020"
+			(at 125.73 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 125.73 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 125.73 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125.73 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 125.73 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3fd34fa9-b4d2-4f76-b190-e78e915574ef")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 165.1 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5bc1250-77eb-4be0-8a9c-e43d1151493f")
+		(property "Reference" "R39"
+			(at 167.64 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 167.64 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 163.322 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6124,7 +11105,77 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 57.15 71.12 0)
+			(at 165.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e232189d-1153-4adc-af60-b481c8fa729a")
+		)
+		(pin "1"
+			(uuid "935c26a6-8dd0-4003-9ea1-6af32032119b")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 85.09 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6c3e0ec-1b77-438b-890d-abf4fbb74208")
+		(property "Reference" "R2"
+			(at 87.63 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 87.63 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 83.312 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 85.09 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6148,35 +11199,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 97.79 83.82 90)
+		(lib_id "power:+5V")
+		(at 38.1 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "eb664150-eee3-42c3-9586-c9140ed8d759")
-		(property "Reference" "D6"
-			(at 101.6 84.1374 90)
+		(uuid "eaef9c09-ebc5-435b-b46e-1643414738d3")
+		(property "Reference" "#PWR06"
+			(at 41.91 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(hide yes)
 			)
 		)
-		(property "Value" "LED"
-			(at 101.6 86.6774 90)
+		(property "Value" "+5V"
+			(at 34.29 133.3499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 97.79 83.82 0)
+			(at 38.1 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6184,8 +11235,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 97.79 83.82 0)
+		(property "Datasheet" ""
+			(at 38.1 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6193,8 +11244,82 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 97.79 83.82 0)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 38.1 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1d1993a8-62c3-4de6-8329-a28aadbe00ef")
+		)
+		(instances
+			(project ""
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 120.65 190.5 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eb1a21cd-238f-48a2-9691-df3fa79d693e")
+		(property "Reference" "D28"
+			(at 120.65 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 120.65 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 120.65 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 120.65 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 120.65 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 120.65 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6203,7 +11328,152 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 97.79 83.82 0)
+			(at 120.65 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "14927236-1ca3-4dfe-b1e5-f96ae6dce631")
+		)
+		(pin "1"
+			(uuid "94d425cd-02cb-4682-9aee-e4efbbebe5d7")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 62.23 191.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb5b7b6d-dd02-43a5-8cb0-118d8f37fbf3")
+		(property "Reference" "#PWR014"
+			(at 62.23 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 62.23 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 62.23 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "751814f2-5b98-4a7f-ac43-41defccc54d4")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 125.73 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb664150-eee3-42c3-9586-c9140ed8d759")
+		(property "Reference" "D6"
+			(at 129.54 42.2274 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RLED"
+			(at 129.54 44.7674 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_THT:LED_D5.0mm"
+			(at 125.73 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 125.73 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 125.73 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6227,17 +11497,18 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 66.04 104.14 0)
+		(lib_id "Transistor_BJT:BC547")
+		(at 102.87 212.09 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f07153a9-8d68-4966-9588-992fc8f20143")
-		(property "Reference" "R3"
-			(at 68.58 102.8699 0)
+		(uuid "eec5f4d4-551d-4f56-83e9-6d1eb6ca703c")
+		(property "Reference" "Q14"
+			(at 107.95 213.3601 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6245,8 +11516,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
-			(at 68.58 105.4099 0)
+		(property "Value" "BC547"
+			(at 107.95 210.8201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6254,8 +11525,85 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 64.262 104.14 90)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+			(at 107.95 210.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
+			(at 102.87 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+			(at 102.87 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "2c8115d7-4fbd-40f3-957e-0a8583764833")
+		)
+		(pin "2"
+			(uuid "3310c210-8733-4fbf-bc24-3c0925727807")
+		)
+		(pin "1"
+			(uuid "6031fcd6-c173-4e4d-92f3-086477e632b6")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "Q14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 125.73 233.68 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f05bfd15-189d-4e14-980e-14b9ce33849f")
+		(property "Reference" "R32"
+			(at 128.27 234.9501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 128.27 232.4101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 123.952 233.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6264,7 +11612,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 104.14 0)
+			(at 125.73 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6273,7 +11621,77 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 66.04 104.14 0)
+			(at 125.73 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "dc7e6e62-5244-4302-b875-787fe0f77a0f")
+		)
+		(pin "1"
+			(uuid "50473e31-cd2b-4fa3-8df4-01a1e330e9a0")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f07153a9-8d68-4966-9588-992fc8f20143")
+		(property "Reference" "R3"
+			(at 96.52 60.9599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 96.52 63.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 92.202 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6298,7 +11716,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 57.15 137.16 0)
+		(at 85.09 95.25 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6308,7 +11726,7 @@
 		(fields_autoplaced yes)
 		(uuid "f2adc4b2-f3fa-4788-a4ad-c54199fea92d")
 		(property "Reference" "#PWR09"
-			(at 57.15 130.81 0)
+			(at 85.09 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6317,7 +11735,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.15 132.08 0)
+			(at 85.09 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6325,7 +11743,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 137.16 0)
+			(at 85.09 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6334,7 +11752,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 137.16 0)
+			(at 85.09 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6343,7 +11761,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 57.15 137.16 0)
+			(at 85.09 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6365,7 +11783,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 116.84 170.18 0)
+		(at 144.78 124.46 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6375,7 +11793,7 @@
 		(fields_autoplaced yes)
 		(uuid "f4314211-c71e-4a5a-b3b1-7d7a59af9116")
 		(property "Reference" "R18"
-			(at 119.38 171.4501 0)
+			(at 147.32 125.7301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6384,7 +11802,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 119.38 168.9101 0)
+			(at 147.32 123.1901 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6392,8 +11810,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 115.062 170.18 90)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 143.002 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6402,7 +11820,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 170.18 0)
+			(at 144.78 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6411,7 +11829,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 116.84 170.18 0)
+			(at 144.78 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6435,8 +11853,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 153.67 204.47 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9967ae8-b506-4209-afe4-e43342929b16")
+		(property "Reference" "R38"
+			(at 156.21 205.7401 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 156.21 203.2001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 151.892 204.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 153.67 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a2b9e29e-e244-45d6-9377-8ef4f5cb80b3")
+		)
+		(pin "1"
+			(uuid "eb0d7c5a-0f5f-4701-af09-a1052285a509")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 95.25 96.52 0)
+		(at 123.19 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6445,7 +11934,7 @@
 		(fields_autoplaced yes)
 		(uuid "f9ea4480-d494-481e-823b-b5fdc738d886")
 		(property "Reference" "Q3"
-			(at 100.33 95.2499 0)
+			(at 128.27 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6454,7 +11943,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 100.33 97.7899 0)
+			(at 128.27 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6463,7 +11952,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 100.33 98.425 0)
+			(at 128.27 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6474,7 +11963,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 95.25 96.52 0)
+			(at 123.19 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6484,7 +11973,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 95.25 96.52 0)
+			(at 123.19 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6512,16 +12001,16 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 92.71 123.19 0)
+		(at 139.7 190.5 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "fc468795-e0b7-4156-a5e7-6bfa8437b248")
-		(property "Reference" "D14"
-			(at 92.71 129.54 0)
+		(uuid "fb1b8f19-32b1-4ed0-8cbb-f5b84f580398")
+		(property "Reference" "D32"
+			(at 139.7 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6529,7 +12018,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 92.71 127 0)
+			(at 139.7 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6537,7 +12026,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 92.71 123.19 0)
+			(at 139.7 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6546,7 +12035,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 92.71 123.19 0)
+			(at 139.7 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6555,7 +12044,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 92.71 123.19 0)
+			(at 139.7 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6564,7 +12053,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 92.71 123.19 0)
+			(at 139.7 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6573,7 +12062,93 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 92.71 123.19 0)
+			(at 139.7 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0b3630a6-e0e7-418e-9a39-b5caa2762774")
+		)
+		(pin "1"
+			(uuid "474b9b8b-9833-4fff-9dac-5d22d6d92115")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "D32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 120.65 81.28 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fc468795-e0b7-4156-a5e7-6bfa8437b248")
+		(property "Reference" "D14"
+			(at 120.65 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 120.65 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+			(at 120.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 120.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 120.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 120.65 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 120.65 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6598,7 +12173,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC547")
-		(at 74.93 96.52 0)
+		(at 102.87 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6607,7 +12182,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff08f0f5-21e1-4f2f-8322-3d4c3a60eadd")
 		(property "Reference" "Q2"
-			(at 80.01 95.2499 0)
+			(at 107.95 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6616,7 +12191,7 @@
 			)
 		)
 		(property "Value" "BC547"
-			(at 80.01 97.7899 0)
+			(at 107.95 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6625,7 +12200,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 80.01 98.425 0)
+			(at 107.95 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6636,7 +12211,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC550-D.pdf"
-			(at 74.93 96.52 0)
+			(at 102.87 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6646,7 +12221,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
-			(at 74.93 96.52 0)
+			(at 102.87 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
