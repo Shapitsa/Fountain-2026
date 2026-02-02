@@ -10,32 +10,32 @@
 		(company "Anna Tretiakova")
 	)
 	(lib_symbols
-		(symbol "Connector:Barrel_Jack_MountingPin"
+		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names
+				(offset 1.016)
 				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 0 5.334 0)
+				(at 0 2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "Barrel_Jack_MountingPin"
-				(at 1.27 -6.35 0)
+			(property "Value" "Screw_Terminal_01x02"
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
 			(property "Footprint" ""
-				(at 1.27 -1.016 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -44,15 +44,6 @@
 				)
 			)
 			(property "Datasheet" "~"
-				(at 1.27 -1.016 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "DC Barrel Jack with a mounting pin"
 				(at 0 0 0)
 				(effects
 					(font
@@ -61,7 +52,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "DC power barrel jack connector"
+			(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -70,7 +61,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "BarrelJack*"
+			(property "ki_keywords" "screw terminal"
 				(at 0 0 0)
 				(effects
 					(font
@@ -79,10 +70,19 @@
 					(hide yes)
 				)
 			)
-			(symbol "Barrel_Jack_MountingPin_0_1"
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Screw_Terminal_01x02_1_1"
 				(rectangle
-					(start -5.08 3.81)
-					(end 5.08 -3.81)
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -93,68 +93,7 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 -2.54) (xy -2.54 -2.54) (xy -1.27 -1.27) (xy 0 -2.54) (xy 2.54 -2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -3.302 1.905)
-					(mid -3.9343 2.54)
-					(end -3.302 3.175)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -3.302 1.905)
-					(mid -3.9343 2.54)
-					(end -3.302 3.175)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 3.683 3.175)
-					(end -3.302 1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 3.81 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Barrel_Jack_MountingPin_1_1"
-				(polyline
-					(pts
-						(xy -1.016 -4.572) (xy 1.016 -4.572)
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
 					)
 					(stroke
 						(width 0.1524)
@@ -164,36 +103,68 @@
 						(type none)
 					)
 				)
-				(text "Mounting"
-					(at 0 -4.191 0)
-					(effects
-						(font
-							(size 0.381 0.381)
-						)
+				(polyline
+					(pts
+						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 				(pin passive line
-					(at 0 -7.62 90)
-					(length 3.048)
-					(name "MountPin"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 2.54 180)
-					(length 2.54)
-					(name "~"
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -209,192 +180,9 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 -2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:LED"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "LED"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Light emitting diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Pins" "1=K 2=A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "LED diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "LED_0_1"
-				(polyline
-					(pts
-						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "LED_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1646,7 +1434,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 156.21) (xy 176.53 160.02)
+			(xy 176.53 153.67) (xy 176.53 160.02)
 		)
 		(stroke
 			(width 0)
@@ -1663,16 +1451,6 @@
 			(type default)
 		)
 		(uuid "0329fe48-e119-455f-a7ee-aade32863a8d")
-	)
-	(wire
-		(pts
-			(xy 137.16 156.21) (xy 137.16 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03debe90-68e1-4bab-97db-67744a58c82b")
 	)
 	(wire
 		(pts
@@ -1756,7 +1534,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 156.21) (xy 96.52 160.02)
+			(xy 96.52 153.67) (xy 96.52 160.02)
 		)
 		(stroke
 			(width 0)
@@ -1876,7 +1654,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 231.14) (xy 116.84 229.87)
+			(xy 116.84 227.33) (xy 116.84 231.14)
 		)
 		(stroke
 			(width 0)
@@ -1886,7 +1664,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 147.32) (xy 137.16 148.59)
+			(xy 137.16 147.32) (xy 137.16 151.13)
 		)
 		(stroke
 			(width 0)
@@ -1956,6 +1734,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 44.45) (xy 156.21 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21b35c82-be34-4b34-8577-f7d69e1abcfd")
+	)
+	(wire
+		(pts
 			(xy 176.53 208.28) (xy 176.53 205.74)
 		)
 		(stroke
@@ -1966,26 +1754,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 156.21) (xy 156.21 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22107dfb-6690-4887-8130-f05adc5167b2")
-	)
-	(wire
-		(pts
-			(xy 176.53 222.25) (xy 176.53 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25e40148-65d0-4293-8558-61ddf6460051")
-	)
-	(wire
-		(pts
 			(xy 156.21 208.28) (xy 156.21 205.74)
 		)
 		(stroke
@@ -1993,16 +1761,6 @@
 			(type default)
 		)
 		(uuid "26bf9f32-8ef4-4245-b877-edb2c1a9bbb0")
-	)
-	(wire
-		(pts
-			(xy 137.16 121.92) (xy 137.16 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2787775b-7bfb-4984-9fc2-79a059d71788")
 	)
 	(wire
 		(pts
@@ -2053,6 +1811,16 @@
 			(type default)
 		)
 		(uuid "2b0303cf-ac90-4a1f-84cb-2f9715179542")
+	)
+	(wire
+		(pts
+			(xy 176.53 218.44) (xy 176.53 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e27b560-cdf5-43aa-8cdd-7236a752bd95")
 	)
 	(wire
 		(pts
@@ -2113,16 +1881,6 @@
 			(type default)
 		)
 		(uuid "32e726ea-7772-403d-9c73-a7dd0fc5b65f")
-	)
-	(wire
-		(pts
-			(xy 116.84 147.32) (xy 116.84 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "334f7e2e-dfa6-4a50-a92b-c4a09693a683")
 	)
 	(wire
 		(pts
@@ -2206,16 +1964,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 231.14) (xy 156.21 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e697b58-7ab3-4903-ba50-3bc5e61d0556")
-	)
-	(wire
-		(pts
 			(xy 116.84 99.06) (xy 116.84 96.52)
 		)
 		(stroke
@@ -2236,6 +1984,46 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 134.62) (xy 46.99 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fb58d14-6db0-4983-84df-416ae1382e81")
+	)
+	(wire
+		(pts
+			(xy 156.21 38.1) (xy 156.21 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40d9768d-f8ff-45bb-afa7-54114a2f89a5")
+	)
+	(wire
+		(pts
+			(xy 176.53 227.33) (xy 176.53 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40f4d2aa-7349-4bbe-9656-6eb81798b743")
+	)
+	(wire
+		(pts
+			(xy 116.84 147.32) (xy 116.84 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "452cef4a-264a-486f-835c-e442f9309bdb")
+	)
+	(wire
+		(pts
 			(xy 125.73 104.14) (xy 125.73 100.33)
 		)
 		(stroke
@@ -2246,7 +2034,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 38.1) (xy 176.53 39.37)
+			(xy 176.53 38.1) (xy 176.53 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2306,6 +2094,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 147.32) (xy 176.53 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51a95cbb-8a84-40d1-9431-3dbc48567454")
+	)
+	(wire
+		(pts
 			(xy 77.47 77.47) (xy 81.28 77.47)
 		)
 		(stroke
@@ -2316,7 +2114,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 38.1) (xy 96.52 39.37)
+			(xy 96.52 38.1) (xy 96.52 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2346,7 +2144,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 38.1) (xy 137.16 39.37)
+			(xy 137.16 38.1) (xy 137.16 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2373,16 +2171,6 @@
 			(type default)
 		)
 		(uuid "5a8aff92-45a4-480f-8184-c73b591f237e")
-	)
-	(wire
-		(pts
-			(xy 137.16 231.14) (xy 137.16 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b23264e-0cc4-4cb1-a75e-f94a6c4eef97")
 	)
 	(wire
 		(pts
@@ -2413,16 +2201,6 @@
 			(type default)
 		)
 		(uuid "5e2bd9fa-b457-419d-8570-d1b2fe6ae648")
-	)
-	(wire
-		(pts
-			(xy 156.21 38.1) (xy 156.21 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ebb268f-b165-45b3-8d84-851c4c4b9a96")
 	)
 	(wire
 		(pts
@@ -2476,6 +2254,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 109.22) (xy 116.84 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62cc1a97-07cc-42bc-b6a1-bc7f99157ff8")
+	)
+	(wire
+		(pts
 			(xy 144.78 201.93) (xy 144.78 191.77)
 		)
 		(stroke
@@ -2506,6 +2294,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 137.16) (xy 46.99 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63a45498-e13c-49ab-8ed0-a74a459c1ac0")
+	)
+	(wire
+		(pts
 			(xy 73.66 139.7) (xy 73.66 182.88)
 		)
 		(stroke
@@ -2533,6 +2331,16 @@
 			(type default)
 		)
 		(uuid "6933c8f3-85a5-4e29-ba5a-5f0c8d04101e")
+	)
+	(wire
+		(pts
+			(xy 156.21 153.67) (xy 156.21 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69531d77-1f4d-47d8-a4e7-55fc94549ce7")
 	)
 	(wire
 		(pts
@@ -2576,7 +2384,17 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 121.92) (xy 156.21 120.65)
+			(xy 156.21 227.33) (xy 156.21 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6bcc68f6-2a7c-4020-b134-7680c1e93ed6")
+	)
+	(wire
+		(pts
+			(xy 156.21 118.11) (xy 156.21 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2616,16 +2434,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 147.32) (xy 176.53 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f4efb19-8c5a-4c92-8780-001fbc8fef8d")
-	)
-	(wire
-		(pts
 			(xy 125.73 67.31) (xy 125.73 77.47)
 		)
 		(stroke
@@ -2633,46 +2441,6 @@
 			(type default)
 		)
 		(uuid "70f9fe7c-6dd8-4697-af75-bddd8fe25328")
-	)
-	(wire
-		(pts
-			(xy 137.16 222.25) (xy 137.16 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7724987e-e091-496a-a403-28384ada4efc")
-	)
-	(wire
-		(pts
-			(xy 96.52 222.25) (xy 96.52 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78b8e125-46ae-4446-81e8-bce932092153")
-	)
-	(wire
-		(pts
-			(xy 156.21 46.99) (xy 156.21 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79ab855f-0886-44ac-b228-8875a2a44a90")
-	)
-	(wire
-		(pts
-			(xy 176.53 46.99) (xy 176.53 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79f5d8d4-789a-48b2-8aa8-14f346dc94ff")
 	)
 	(wire
 		(pts
@@ -2696,16 +2464,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 139.7) (xy 46.99 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "809f551f-2fb3-4a40-8dba-f0e2e365e18b")
-	)
-	(wire
-		(pts
 			(xy 54.61 139.7) (xy 54.61 238.76)
 		)
 		(stroke
@@ -2723,6 +2481,16 @@
 			(type default)
 		)
 		(uuid "81036bbf-f528-4a2e-95bd-9b83207583dc")
+	)
+	(wire
+		(pts
+			(xy 116.84 218.44) (xy 116.84 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81f52662-4652-45a2-a2d3-d16606a537e5")
 	)
 	(wire
 		(pts
@@ -2766,16 +2534,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 113.03) (xy 116.84 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84ef6093-7f2e-4dc0-b27d-6da1eec1728e")
-	)
-	(wire
-		(pts
 			(xy 137.16 30.48) (xy 156.21 30.48)
 		)
 		(stroke
@@ -2793,6 +2551,16 @@
 			(type default)
 		)
 		(uuid "8696a9bb-7d1b-4f7f-be41-3399b1efa2a8")
+	)
+	(wire
+		(pts
+			(xy 116.84 38.1) (xy 116.84 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "879b2c6f-4b28-4ede-a11c-a9a28db66dd4")
 	)
 	(wire
 		(pts
@@ -2816,16 +2584,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 113.03) (xy 156.21 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ac07f2b-0823-4e64-8577-c04ef354bd68")
-	)
-	(wire
-		(pts
 			(xy 125.73 55.88) (xy 125.73 59.69)
 		)
 		(stroke
@@ -2846,7 +2604,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 121.92) (xy 176.53 120.65)
+			(xy 176.53 118.11) (xy 176.53 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2886,16 +2644,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 121.92) (xy 116.84 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99160dbd-ee93-4006-8e7c-0bee7e9c0c90")
-	)
-	(wire
-		(pts
 			(xy 85.09 186.69) (xy 87.63 186.69)
 		)
 		(stroke
@@ -2916,7 +2664,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 46.99) (xy 116.84 50.8)
+			(xy 116.84 44.45) (xy 116.84 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2933,16 +2681,6 @@
 			(type default)
 		)
 		(uuid "9a339dbc-fc3d-4014-96c1-1cae88006288")
-	)
-	(wire
-		(pts
-			(xy 116.84 222.25) (xy 116.84 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b194c82-25dc-4fef-8bf2-df55f21d3433")
 	)
 	(wire
 		(pts
@@ -2996,7 +2734,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 46.99) (xy 137.16 50.8)
+			(xy 137.16 44.45) (xy 137.16 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3036,33 +2774,23 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 231.14) (xy 176.53 229.87)
+			(xy 116.84 118.11) (xy 116.84 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ab30d89e-2f94-416d-9968-ea0f5937193b")
+		(uuid "aa5229b2-1515-48b9-b09b-d55be9c7452c")
 	)
 	(wire
 		(pts
-			(xy 96.52 113.03) (xy 96.52 109.22)
+			(xy 96.52 109.22) (xy 96.52 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "abaeb547-ed9a-40e3-89dc-375f097973d5")
-	)
-	(wire
-		(pts
-			(xy 41.91 134.62) (xy 46.99 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac34168b-e42f-42c8-af21-bbeb3311315a")
 	)
 	(wire
 		(pts
@@ -3116,6 +2844,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 227.33) (xy 137.16 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b029bee4-656d-481c-9976-ed0469a9243f")
+	)
+	(wire
+		(pts
 			(xy 109.22 104.14) (xy 105.41 104.14)
 		)
 		(stroke
@@ -3136,7 +2874,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 147.32) (xy 96.52 148.59)
+			(xy 96.52 147.32) (xy 96.52 151.13)
 		)
 		(stroke
 			(width 0)
@@ -3226,16 +2964,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 231.14) (xy 96.52 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2d7030d-40aa-48ef-89b0-c9a6ef985fa0")
-	)
-	(wire
-		(pts
 			(xy 46.99 134.62) (xy 54.61 134.62)
 		)
 		(stroke
@@ -3286,6 +3014,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 218.44) (xy 137.16 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c82595c4-3091-4e69-9aa2-14d0ee8e6951")
+	)
+	(wire
+		(pts
 			(xy 85.09 176.53) (xy 85.09 186.69)
 		)
 		(stroke
@@ -3306,7 +3044,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 156.21) (xy 116.84 160.02)
+			(xy 116.84 153.67) (xy 116.84 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3333,6 +3071,26 @@
 			(type default)
 		)
 		(uuid "d2ef1b8c-f1b9-45b4-b8da-c8bf60dad48c")
+	)
+	(wire
+		(pts
+			(xy 176.53 44.45) (xy 176.53 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d66ddf33-d26f-4318-b1a7-fd91ae200d20")
+	)
+	(wire
+		(pts
+			(xy 96.52 218.44) (xy 96.52 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d92c7252-9089-4f2d-9a1c-23f2298b2d5d")
 	)
 	(wire
 		(pts
@@ -3416,7 +3174,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 121.92) (xy 96.52 120.65)
+			(xy 96.52 118.11) (xy 96.52 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3426,7 +3184,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 113.03) (xy 176.53 109.22)
+			(xy 176.53 109.22) (xy 176.53 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3446,7 +3204,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 147.32) (xy 156.21 148.59)
+			(xy 156.21 147.32) (xy 156.21 151.13)
 		)
 		(stroke
 			(width 0)
@@ -3466,7 +3224,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 222.25) (xy 156.21 218.44)
+			(xy 156.21 218.44) (xy 156.21 224.79)
 		)
 		(stroke
 			(width 0)
@@ -3476,7 +3234,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 139.7) (xy 46.99 142.24)
+			(xy 46.99 137.16) (xy 46.99 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3496,7 +3254,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 113.03) (xy 137.16 109.22)
+			(xy 137.16 109.22) (xy 137.16 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3526,13 +3284,13 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 38.1) (xy 116.84 39.37)
+			(xy 137.16 118.11) (xy 137.16 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f380c33e-ec6a-41e7-b46e-f9e3a64657f2")
+		(uuid "efdd5e22-03a2-41dc-859d-d5bae8409c0d")
 	)
 	(wire
 		(pts
@@ -3546,13 +3304,23 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 46.99) (xy 96.52 50.8)
+			(xy 96.52 44.45) (xy 96.52 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f59a16c2-a368-4d32-b6ab-3ea22682a908")
+	)
+	(wire
+		(pts
+			(xy 96.52 227.33) (xy 96.52 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7c151c7-f6ee-4a1f-92aa-f5ab34663946")
 	)
 	(wire
 		(pts
@@ -3586,6 +3354,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 109.22) (xy 156.21 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa90aaa4-988a-442c-a14e-c7a1431e1722")
+	)
+	(wire
+		(pts
 			(xy 81.28 186.69) (xy 85.09 186.69)
 		)
 		(stroke
@@ -3603,6 +3381,16 @@
 			(type default)
 		)
 		(uuid "fd1a828f-ddf0-43d9-8714-8cdd341bc546")
+	)
+	(wire
+		(pts
+			(xy 137.16 153.67) (xy 137.16 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fef410b1-5489-4281-9c23-993d226b9b56")
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -3974,6 +3762,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 161.29 224.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "06ca6910-f080-4a7e-a19a-153ff096aad3")
+		(property "Reference" "J20"
+			(at 163.83 224.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 163.83 227.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 161.29 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 161.29 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9b9e9996-cfe7-41a8-8da0-9b5f831e380a")
+		)
+		(pin "1"
+			(uuid "a77f0df9-b3b5-4c1e-87e6-63da1cb0ed73")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
 		(at 132.08 186.69 180)
 		(unit 1)
@@ -4060,85 +3918,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 156.21 152.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0d92b56d-dc37-4fad-bebc-41a6bffcd31d")
-		(property "Reference" "D33"
-			(at 160.02 152.7174 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 160.02 155.2574 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 156.21 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 156.21 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 156.21 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ddc9f42b-4881-492c-ae17-fef7b4066689")
-		)
-		(pin "1"
-			(uuid "d51a150d-1681-4dca-bd92-3d741f70afa4")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Transistor_BJT:BC547")
 		(at 93.98 55.88 0)
 		(unit 1)
@@ -4215,32 +3994,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Barrel_Jack_MountingPin")
-		(at 34.29 137.16 0)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 142.24 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "12b02123-c084-4ec2-ab1c-88780251e2e9")
-		(property "Reference" "J1"
-			(at 29.972 129.032 0)
+		(fields_autoplaced yes)
+		(uuid "0f5a8d96-d428-463a-a3de-8c5513adf8ad")
+		(property "Reference" "J14"
+			(at 144.78 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "Barrel_Jack_MountingPin"
-			(at 26.67 131.318 0)
+		(property "Value" "LED"
+			(at 144.78 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal"
-			(at 35.56 138.176 0)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 142.24 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4249,7 +4031,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 35.56 138.176 0)
+			(at 142.24 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4257,28 +4039,165 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DC Barrel Jack with a mounting pin"
-			(at 34.29 137.16 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 142.24 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "c9c46b3d-dd51-4cd3-8860-6e830fd57faf")
 		)
 		(pin "2"
-			(uuid "48c69c9c-10bb-430f-aa18-61da4ce80a2b")
+			(uuid "427ce8a1-9840-4fed-84cc-b276d685657c")
 		)
-		(pin "MP"
-			(uuid "c6d8edab-bb70-4f94-8437-3e516a31e832")
+		(pin "1"
+			(uuid "b2c05dd6-78ce-479d-b896-387383998c90")
 		)
 		(instances
-			(project ""
+			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "J1")
+					(reference "J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 181.61 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ff02c74-d53c-4972-9c84-6abb5123fdf9")
+		(property "Reference" "J16"
+			(at 184.15 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 184.15 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 181.61 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 181.61 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a46cd3ca-6fbc-442a-8746-a52b5781ce1f")
+		)
+		(pin "1"
+			(uuid "5faf0fad-9f3e-45f1-95b7-501c9c816dbb")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 101.6 224.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14b7de17-56c0-4b50-be13-1cb53b2b7813")
+		(property "Reference" "J17"
+			(at 104.14 224.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 104.14 227.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 101.6 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 101.6 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b0fed624-bcba-440d-a5c3-49534bf9ee76")
+		)
+		(pin "1"
+			(uuid "7206023d-66df-4b5e-bcce-3ba47e2b2cc7")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J17")
 					(unit 1)
 				)
 			)
@@ -4350,6 +4269,76 @@
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 121.92 224.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17b53b32-b107-419b-b795-914833f3883e")
+		(property "Reference" "J18"
+			(at 124.46 224.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 124.46 227.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 121.92 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 121.92 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c7fc9b5f-a190-4a3f-aed8-d0998a7e37e6")
+		)
+		(pin "1"
+			(uuid "c2353286-86a8-4b6a-ae53-282a481e771a")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J18")
 					(unit 1)
 				)
 			)
@@ -5005,6 +4994,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 161.29 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "288a3db0-c479-4b7d-9f83-ca32355cfb48")
+		(property "Reference" "J10"
+			(at 163.83 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 163.83 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 161.29 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 161.29 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6e621ca1-a3ba-467a-b0f4-3609b1556d6d")
+		)
+		(pin "1"
+			(uuid "ee5be418-d0c6-4fc2-be77-3a9b1e878963")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 144.78 96.52 0)
 		(mirror x)
@@ -5156,85 +5215,6 @@
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 96.52 152.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3095400d-c114-4362-a0cd-0580dbad5250")
-		(property "Reference" "D21"
-			(at 100.33 152.7174 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 100.33 155.2574 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 96.52 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 96.52 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 96.52 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 96.52 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "37b6caf9-f81f-492b-86a5-4602843f6379")
-		)
-		(pin "1"
-			(uuid "09d9b8d8-fcf6-4420-b4a5-ba5a9bf013ba")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -5586,166 +5566,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 137.16 116.84 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c6caba9-fca2-405f-8389-52d9b91c5fb6")
-		(property "Reference" "D15"
-			(at 140.97 113.9824 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 140.97 116.5224 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 137.16 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 137.16 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cb063f6d-6059-4e1b-94e1-5c458dc0f58c")
-		)
-		(pin "1"
-			(uuid "b589e5ec-9cf5-4739-8e1b-0a1424c2182c")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 156.21 116.84 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3e2666ab-8ff1-49be-a0e9-968ed963f2a9")
-		(property "Reference" "D17"
-			(at 160.02 113.9824 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 160.02 116.5224 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 156.21 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 156.21 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 156.21 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4c426887-3e6f-4f16-bf4a-a4dca1aa8507")
-		)
-		(pin "1"
-			(uuid "51266d76-445e-4568-94ba-c026f4485ba0")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 105.41 172.72 0)
 		(unit 1)
@@ -5887,6 +5707,74 @@
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "Q18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 34.29 137.16 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "432c1f07-47c2-4753-a8eb-53c41812c46a")
+		(property "Reference" "J1"
+			(at 34.29 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Power"
+			(at 34.29 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 34.29 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 34.29 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 34.29 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "27ba03f8-ce8e-4223-b3d4-2106ececfb64")
+		)
+		(pin "1"
+			(uuid "e652406a-dc33-4fc1-b573-b8aa3676aeac")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -6110,6 +5998,76 @@
 			(project ""
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 181.61 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ae5d610-97da-40bc-b319-269eb0c6fcd0")
+		(property "Reference" "J11"
+			(at 184.15 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 184.15 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 181.61 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 181.61 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e54c2815-a991-4fde-b099-d5cb400de41c")
+		)
+		(pin "1"
+			(uuid "f08eb462-fb58-4831-9625-cdc8c1d3f8bf")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -6355,165 +6313,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 156.21 226.06 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4c55f24c-c3ac-4fc3-a208-650b50906828")
-		(property "Reference" "D34"
-			(at 160.02 223.2024 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 160.02 225.7424 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 156.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 156.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 156.21 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "294c2aab-d8a1-4b21-bee8-bcc4e7ff97e9")
-		)
-		(pin "1"
-			(uuid "b231a14e-cde2-4441-a712-86094e70dbbe")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 116.84 43.18 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4cfbaa83-f806-49cb-9fc1-06401349eb17")
-		(property "Reference" "D4"
-			(at 120.65 43.4974 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 120.65 46.0374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 116.84 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 116.84 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a29af2ed-7ff6-42ee-8be1-c8ed1aa12a52")
-		)
-		(pin "1"
-			(uuid "1fa3b3c1-da76-4a9f-899c-f96c13b68fd4")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 96.52 205.74 0)
 		(mirror x)
@@ -6738,6 +6537,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 142.24 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5213f386-f619-4c2c-980d-23af248fa053")
+		(property "Reference" "J9"
+			(at 144.78 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 144.78 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 142.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 142.24 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "39c9c085-02ae-4632-a04e-08f67420318e")
+		)
+		(pin "1"
+			(uuid "796695ee-0b6e-4c78-b4aa-aeaa978ff43b")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 156.21 234.95 0)
 		(mirror x)
@@ -6803,6 +6672,76 @@
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 121.92 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "557c46f4-982f-4d40-a366-38f5fe722b0d")
+		(property "Reference" "J13"
+			(at 124.46 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 124.46 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 121.92 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 121.92 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "94028b7a-6360-4cf1-86c6-a118d152fa9a")
+		)
+		(pin "1"
+			(uuid "febcc54b-d298-4f01-9533-2a9124499b80")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -6879,36 +6818,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 176.53 226.06 90)
-		(mirror x)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 161.29 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "600ede89-75ca-405f-9ca8-762964395795")
-		(property "Reference" "D36"
-			(at 180.34 223.2024 90)
+		(uuid "5e732677-e54c-4b69-90bd-8704134c80cb")
+		(property "Reference" "J5"
+			(at 163.83 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "RLED"
-			(at 180.34 225.7424 90)
+		(property "Value" "LED"
+			(at 163.83 44.4499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 176.53 226.06 0)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 161.29 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6917,7 +6855,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 226.06 0)
+			(at 161.29 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6925,17 +6863,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 176.53 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 226.06 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 161.29 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6944,15 +6873,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "514e63cf-aac5-44f7-8da6-ab76cff987a7")
+			(uuid "4c8378de-85e1-435d-af85-73bdaecd1aff")
 		)
 		(pin "1"
-			(uuid "4cf5c6e6-44b3-4142-b1f3-6e3abb0778eb")
+			(uuid "949052f7-437e-4c0a-a7d6-606356bf2e51")
 		)
 		(instances
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D36")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -7444,86 +7373,6 @@
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 116.84 116.84 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6fc9f419-bb3b-49f4-8716-3c3f57e7e666")
-		(property "Reference" "D13"
-			(at 120.65 113.9824 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 120.65 116.5224 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 116.84 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 116.84 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b8fa038f-7c4c-48ef-8e50-20ffa6170067")
-		)
-		(pin "1"
-			(uuid "904b9718-fd64-412e-890d-b506fb13581d")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -8833,35 +8682,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 176.53 43.18 90)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 142.24 224.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "967a67ca-ae82-4ddf-ad42-3f7be5a2bbd2")
-		(property "Reference" "D10"
-			(at 180.34 43.4974 90)
+		(uuid "937ed1fa-2bfa-46cb-80f0-a6068c344a39")
+		(property "Reference" "J19"
+			(at 144.78 224.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "RLED"
-			(at 180.34 46.0374 90)
+		(property "Value" "LED"
+			(at 144.78 227.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 176.53 43.18 0)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 142.24 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8870,7 +8719,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 176.53 43.18 0)
+			(at 142.24 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8878,17 +8727,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 176.53 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 43.18 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 142.24 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8897,15 +8737,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "3f11f63d-c967-4538-aa47-d85553ad26d7")
+			(uuid "f37defbf-38f1-4385-8b49-10879f8fda8d")
 		)
 		(pin "1"
-			(uuid "a15ec2e7-8064-4f31-8267-e53166db1e97")
+			(uuid "6f987de5-ee2f-43bb-ba71-8fe06ee39e5d")
 		)
 		(instances
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D10")
+					(reference "J19")
 					(unit 1)
 				)
 			)
@@ -8979,6 +8819,76 @@
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "RV2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 161.29 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9943c2d7-39b7-4de6-a7d6-6b4330ccee49")
+		(property "Reference" "J15"
+			(at 163.83 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 163.83 153.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 161.29 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 161.29 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "acd78f67-b69c-41ec-afd2-296f3b2192b0")
+		)
+		(pin "1"
+			(uuid "63a73fbb-199c-47c8-aa4b-b8fd6745e32d")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -9430,85 +9340,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 156.21 43.18 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a56dd0df-f181-4f0a-ad54-467132a69b03")
-		(property "Reference" "D8"
-			(at 160.02 43.4974 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 160.02 46.0374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 156.21 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 156.21 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 156.21 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3c977720-2ad0-42ac-ac6b-1b04eea86cb1")
-		)
-		(pin "1"
-			(uuid "ddf10c34-c72c-471c-9f27-e9b81e282f40")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 144.78 205.74 0)
 		(mirror x)
@@ -9650,164 +9481,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 176.53 152.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac961ba4-8784-4910-8f55-1afed7ae3554")
-		(property "Reference" "D35"
-			(at 180.34 152.7174 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 180.34 155.2574 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 176.53 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 176.53 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d62eb365-4611-4a19-8f79-5b5be0c58e56")
-		)
-		(pin "1"
-			(uuid "90ce5dde-0d64-488d-83cf-e644489cdbfa")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 137.16 152.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "acf5598f-7bda-4c96-851c-aae0a617137d")
-		(property "Reference" "D29"
-			(at 140.97 152.7174 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 140.97 155.2574 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 137.16 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 137.16 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9269923a-a2e2-48d4-bd79-6046c1bc5d22")
-		)
-		(pin "1"
-			(uuid "7463130a-ad11-4b2e-901a-e19795a6372e")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 105.41 96.52 0)
 		(mirror x)
@@ -9879,6 +9552,146 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 181.61 224.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b32a8449-3aef-4b14-b9d3-66c37117d812")
+		(property "Reference" "J21"
+			(at 184.15 224.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 184.15 227.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 181.61 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 181.61 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "12ab59ef-f100-4cb0-97f2-7f04f8c4c54d")
+		)
+		(pin "1"
+			(uuid "f89919a2-d966-40fd-9234-4a87e4be0c02")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 181.61 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5def94f-b2ff-49dd-a491-5e1f2f7c397f")
+		(property "Reference" "J6"
+			(at 184.15 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 184.15 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 181.61 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 181.61 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 181.61 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3202e603-d5da-48b9-97dc-9bd79a160dbc")
+		)
+		(pin "1"
+			(uuid "291e2e1e-fc13-4314-80a9-179b275c1e38")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 73.66 83.82 0)
 		(unit 1)
@@ -9939,6 +9752,76 @@
 			(project ""
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 121.92 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ba21ec56-cbba-4750-b50a-2eac199a93f5")
+		(property "Reference" "J8"
+			(at 124.46 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 124.46 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 121.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 121.92 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "62b40dc2-f359-4315-9d28-cc06a060941d")
+		)
+		(pin "1"
+			(uuid "49d5bfb9-09ba-426c-8f9d-5ce01eb9c9c4")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -10016,6 +9899,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 101.6 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "baec470c-129e-4891-b422-abc639da29b8")
+		(property "Reference" "J2"
+			(at 104.14 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 104.14 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 101.6 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 101.6 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "422b0478-69fe-4f7d-b408-ddbd33ebd695")
+		)
+		(pin "1"
+			(uuid "a22768f8-63e2-4fab-9f98-7481558f2fcf")
+		)
+		(instances
+			(project ""
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 25.4 99.06 0)
 		(unit 1)
@@ -10074,85 +10027,6 @@
 			(project ""
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 116.84 152.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf460a5d-dd72-4ed9-bd20-24d1978d04c9")
-		(property "Reference" "D25"
-			(at 120.65 152.7174 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 120.65 155.2574 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 116.84 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 116.84 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d4bd0983-8f16-4308-b4c7-ca054414fdcf")
-		)
-		(pin "1"
-			(uuid "67f10909-16e6-4e36-85f6-5af03f3ef662")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -10508,86 +10382,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 96.52 116.84 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c67814d5-603e-4468-9cc4-2b1ece3ac67a")
-		(property "Reference" "D11"
-			(at 100.33 113.9824 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 100.33 116.5224 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 96.52 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 96.52 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 96.52 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 96.52 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "08620695-4b63-4d82-b24d-7fb15f8b9850")
-		)
-		(pin "1"
-			(uuid "da74513e-9c2a-44d1-83d8-9d796018b9bd")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 96.52 125.73 0)
 		(mirror x)
@@ -10806,86 +10600,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 137.16 226.06 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cdce232f-b0d2-4306-97e9-63f6216c468c")
-		(property "Reference" "D30"
-			(at 140.97 223.2024 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 140.97 225.7424 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 137.16 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 137.16 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7f8cdfcf-7438-48b9-abac-bf7e6b20ee7a")
-		)
-		(pin "1"
-			(uuid "8233a4e1-9dfa-42ce-a85c-ae1f198cf89c")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 156.21 172.72 0)
 		(unit 1)
@@ -11029,6 +10743,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 101.6 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d191968c-fa17-46b9-ba2c-ff37f1c52cfe")
+		(property "Reference" "J7"
+			(at 104.14 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 104.14 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 101.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 101.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bb92e212-c3b4-4a8c-bdea-3676d7b4c6b6")
+		)
+		(pin "1"
+			(uuid "3a6864d8-53a8-41f3-b70d-7c3e4d9cad07")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 116.84 172.72 0)
 		(unit 1)
@@ -11096,7 +10880,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 46.99 142.24 0)
+		(at 46.99 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11105,7 +10889,7 @@
 		(fields_autoplaced yes)
 		(uuid "d41f38cb-ab7d-4c4c-bc4d-d263cdeb7a11")
 		(property "Reference" "#PWR08"
-			(at 46.99 148.59 0)
+			(at 46.99 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11114,7 +10898,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 46.99 147.32 0)
+			(at 46.99 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11122,7 +10906,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 142.24 0)
+			(at 46.99 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11131,7 +10915,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 142.24 0)
+			(at 46.99 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11140,7 +10924,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 46.99 142.24 0)
+			(at 46.99 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11155,165 +10939,6 @@
 			(project ""
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 176.53 116.84 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d4ab9536-f296-4926-87a2-a354b8f02f20")
-		(property "Reference" "D18"
-			(at 180.34 113.9824 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 180.34 116.5224 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 176.53 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 176.53 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 176.53 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1f73386b-b968-47fe-9d6e-01801650a102")
-		)
-		(pin "1"
-			(uuid "3b0ec84e-a696-4607-b424-fa4ad1873a34")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 96.52 43.18 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d51e9474-1826-48e3-9c14-01934a8333d2")
-		(property "Reference" "D2"
-			(at 100.33 43.4974 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 100.33 46.0374 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 96.52 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 96.52 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 96.52 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 96.52 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "45365d79-266d-4746-a168-c54631e4b5a1")
-		)
-		(pin "1"
-			(uuid "54f69d3b-66da-4f1f-8399-86ced8641c4b")
-		)
-		(instances
-			(project ""
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -11390,36 +11015,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 96.52 226.06 90)
-		(mirror x)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 121.92 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "dc49c92a-59f6-4a58-8c56-dc700649ef69")
-		(property "Reference" "D22"
-			(at 100.33 223.2024 90)
+		(uuid "d92958f6-7d66-4c45-ac96-3206679b5169")
+		(property "Reference" "J3"
+			(at 124.46 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "RLED"
-			(at 100.33 225.7424 90)
+		(property "Value" "LED"
+			(at 124.46 44.4499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 96.52 226.06 0)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 121.92 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11428,7 +11052,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 226.06 0)
+			(at 121.92 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11436,17 +11060,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 96.52 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 96.52 226.06 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 121.92 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11455,15 +11070,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "b309247c-68cf-41d1-8426-c3c6e460fcf2")
+			(uuid "299e71b2-9123-4ab7-ad32-d4fd438cc915")
 		)
 		(pin "1"
-			(uuid "74de3775-5164-47f3-9664-659fad4494de")
+			(uuid "215b8bfe-73e1-493f-8476-5f6e6237e78b")
 		)
 		(instances
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D22")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -11626,86 +11241,6 @@
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
 					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 116.84 226.06 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0518214-9377-4fa9-9995-364e9143df10")
-		(property "Reference" "D26"
-			(at 120.65 223.2024 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RLED"
-			(at 120.65 225.7424 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 116.84 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 116.84 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cea27106-5458-40ed-b4a7-160d90371baa")
-		)
-		(pin "1"
-			(uuid "e5064979-567e-4aea-b15f-8da348038970")
-		)
-		(instances
-			(project "Lutron Fountain"
-				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -12005,6 +11540,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 142.24 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e8a50e79-9ba4-42dd-8845-a488ec8df159")
+		(property "Reference" "J4"
+			(at 144.78 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED"
+			(at 144.78 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 142.24 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 142.24 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7b541a6c-f20d-44a4-82ac-e373170f02a7")
+		)
+		(pin "1"
+			(uuid "4b29cd0c-03e4-4ce8-bf75-8353cb1a7ce2")
+		)
+		(instances
+			(project "Lutron Fountain"
+				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
 		(at 132.08 191.77 0)
 		(mirror y)
@@ -12157,35 +11762,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 137.16 43.18 90)
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 101.6 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "eb664150-eee3-42c3-9586-c9140ed8d759")
-		(property "Reference" "D6"
-			(at 140.97 43.4974 90)
+		(uuid "eb7d2555-3e1e-4fe3-b5d3-ddadeb5d132d")
+		(property "Reference" "J12"
+			(at 104.14 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "RLED"
-			(at 140.97 46.0374 90)
+		(property "Value" "LED"
+			(at 104.14 153.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 137.16 43.18 0)
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
+			(at 101.6 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12194,7 +11799,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 43.18 0)
+			(at 101.6 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12202,17 +11807,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 137.16 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 137.16 43.18 0)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 101.6 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12221,15 +11817,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "8b933f84-06dd-499f-a485-88533106c9eb")
+			(uuid "e0d27219-8184-4c99-bc5e-4809944b727d")
 		)
 		(pin "1"
-			(uuid "f054934a-240a-4f33-bd69-ef476ec84289")
+			(uuid "e02d1546-287e-4444-ae4e-6bbeddce36b5")
 		)
 		(instances
 			(project "Lutron Fountain"
 				(path "/d8bd194b-7320-40b5-b2bf-918a1766be7e"
-					(reference "D6")
+					(reference "J12")
 					(unit 1)
 				)
 			)
